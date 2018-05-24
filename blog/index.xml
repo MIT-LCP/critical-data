@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Better Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2015 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://mit-lcp.github.io/critical-data/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Critical Datathon 2015</title>
+      <link>https://mit-lcp.github.io/critical-data/blog/2017/09/08/blog-4/</link>
+      <pubDate>Fri, 08 Sep 2017 12:00:00 -0400</pubDate>
+      
+      <guid>https://mit-lcp.github.io/critical-data/blog/2017/09/08/blog-4/</guid>
+      <description>2017.HST.953: COLLABORATIVE DATA SCIENCE IN MEDICINE HST.953: Collaborative Data Science in Medicine, focuses on the secondary analysis of clinical data that is routinely collected in the process of care. In this course, students will work with Boston-area clinicians on research projects with the goal of a publication-ready manuscript at the end of the semester. Three of the 15 papers from last fall are already being reviewed by various clinical journals, while the rest are on track for submission over the next few months.</description>
+    </item>
     
     <item>
       <title>Critical Datathon 2015</title>
