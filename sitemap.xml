@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/blog/2015/09/25/blog-3/</loc>
+    <lastmod>2015-09-25T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/blog/2014/09/05/blog-2/</loc>
+    <lastmod>2014-09-05T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/blog/2014/01/03/blog-1/</loc>
+    <lastmod>2014-01-03T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/</loc>
+    <lastmod>2015-09-25T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/blog/</loc>
+    <lastmod>2015-09-25T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/tags/datathon/</loc>
+    <lastmod>2015-09-25T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/categories/events/</loc>
+    <lastmod>2015-09-25T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/tags/</loc>
+    <lastmod>2015-09-25T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mit-lcp.github.io/critical-data/textbook/</loc>
+  </url>
+  
+</urlset>
