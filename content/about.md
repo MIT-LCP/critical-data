@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "About MIT Critical Data"
-id = "about"
+identifier = "about"
 keywords = ["About"]
 +++
 
