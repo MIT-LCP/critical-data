@@ -1,4 +1,4 @@
-baseurl = "https://betterscience.mit.edu/"
+baseurl = "https://criticaldata.mit.edu/"
 title = "Better Science"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
