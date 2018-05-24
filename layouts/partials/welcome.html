@@ -1,0 +1,17 @@
+{{ if isset .Site.Params "welcome" }}
+{{ if .Site.Params.welcome.enable }}
+<section class="bar background-image-fixed-1 no-mb color-white text-center">
+    <div class="dark-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="icon icon-lg"><i class="{{ .Site.Params.welcome.icon }}"></i>
+                </div>
+                <h3 class="text-uppercase">{{ .Site.Params.welcome.title }}</h3>
+                <p class="lead">{{ .Site.Params.welcome.subtitle }}</p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

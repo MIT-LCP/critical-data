@@ -1,0 +1,144 @@
+baseurl = "https://betterscience.mit.edu/"
+title = "Better Science"
+theme = "hugo-universal-theme"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url  = "/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "News"
+    url  = "/blog/"
+    weight = 3
+
+#[[menu.main]]
+#    name = "Registration"
+#    identifier = "registration"
+#    url  = "/registration/"
+#    weight = 2
+
+[[menu.main]]
+    name = "Textbook"
+    identifier = "textbook"
+    url  = "/textbook/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 5
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "MIT Critical Data"
+    defaultKeywords = ["better science", "reproducibility", "replicability"]
+    defaultDescription = "Better science ideathon"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = ""
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "default"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "criticaldata@physionet.org"
+
+    about_us = "<p>Critical data is a loose affiliation of research labs at Massachusetts Institute of Technology who are engaged in research in and around \"Critical Data\", more specifically data that has could be harnessed to better the provision of healthcare.</p>"
+    copyright = "Copyright (c) 2018, MIT Critical Data; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo.png"
+    address = """<p><strong>Massachusetts Institute of Technology (MIT)</strong>
+        <br>45 Carleton St
+        <br>Building E25-505
+        <br>Cambridge, MA, 02139
+      </p>
+      """
+    latitude = "42.361541"
+    longitude = "-71.086407"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = false
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.welcome]
+    enable = true
+    icon = "fa fa-flask"
+    title = "MIT Critical Data"
+    subtitle = "Empowering research in critical care"
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = ""
+
+[params.partners]
+    enable = true
+    title = "Partners"
+    subtitle = ""
+
+[params.see_more]
+    enable = false
+    icon = "fa fa-flask"
+    title = "Interested in joining us? "
+    subtitle = "Sign up for more information."
+    link_url = "/register/"
+    link_text = "Register your interest."
+
+[params.recent_posts]
+    enable = true
+    title = "The latest from MIT Critical Data"
+    subtitle = ""
