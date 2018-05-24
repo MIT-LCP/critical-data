@@ -1,4 +1,4 @@
-baseurl = "https://criticaldata.mit.edu/"
+baseurl = "https://mit-lcp.github.io/critical-data/"
 title = "Better Science"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
