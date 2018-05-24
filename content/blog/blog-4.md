@@ -1,5 +1,5 @@
 +++
-title = "Critical Datathon 2015"
+title = "2017.HST.953: Collaborative Data Science in Medicine"
 date = "2017-09-08T12:00:00-04:00"
 tags = ["courses"]
 categories = ["events"]
