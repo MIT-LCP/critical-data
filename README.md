@@ -14,3 +14,4 @@ Hugo makes it fairly easy to prototype the website locally. The steps are:
 # Deployment
 
 The website is hosted on webserver. Add webserver as a remote and use git push to deploy the website.
+See https://wiki-lcp.mit.edu/index.php?title=Hugo-on-webserver for details.
