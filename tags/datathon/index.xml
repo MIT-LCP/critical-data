@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datathon on Better Science</title>
-    <link>https://mit-lcp.github.io/critical-data/tags/datathon/</link>
+    <link>https://criticaldata.mit.edu/tags/datathon/</link>
     <description>Recent content in Datathon on Better Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Sep 2015 12:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://mit-lcp.github.io/critical-data/tags/datathon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://criticaldata.mit.edu/tags/datathon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Critical Datathon 2015</title>
-      <link>https://mit-lcp.github.io/critical-data/blog/2015/09/25/blog-3/</link>
+      <link>https://criticaldata.mit.edu/blog/2015/09/25/blog-3/</link>
       <pubDate>Fri, 25 Sep 2015 12:00:00 -0400</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/blog/2015/09/25/blog-3/</guid>
+      <guid>https://criticaldata.mit.edu/blog/2015/09/25/blog-3/</guid>
       <description>Datathon 2015 This weekend long (September 25-27) event brings together clinicians, data scientists and innovators in healthcare to address current problems in intensive care. The increasing wealth of patient data available through electronic health records has created a surge in research funding and industry interest in health data analytics. Challenges in extracting knowledge from health record databases, however, are significant.
 The event will strengthen cross-disciplinary collaboration around secondary analysis of electronic health record data, helping to pave the way for reliable knowledge to be translated into action, for the benefit of patients.</description>
     </item>
     
     <item>
       <title>Critical Datathon Fall 2014</title>
-      <link>https://mit-lcp.github.io/critical-data/blog/2014/09/05/blog-2/</link>
+      <link>https://criticaldata.mit.edu/blog/2014/09/05/blog-2/</link>
       <pubDate>Fri, 05 Sep 2014 12:00:00 -0400</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/blog/2014/09/05/blog-2/</guid>
+      <guid>https://criticaldata.mit.edu/blog/2014/09/05/blog-2/</guid>
       <description>Critical Datathon Fall 2014 Our 2nd Datathon brought together frontline healthcare providers (nurses, pharmacists, doctors) with data scientists to answer clinically-relevant questions over the course of a weekend. Participants will work with a large open-access ICU database called MIMIC, a creation of a public-private partnership between the Beth Israel Deaconess Medical Center (BIDMC), MIT, and Philips Healthcare. This weekend event ran in partnership with the 41st annual international conference of Computing in Cardiology, hosted in Cambridge MA from 5-7 September, 2014</description>
     </item>
     
     <item>
       <title>Critical Datathon Spring 2014</title>
-      <link>https://mit-lcp.github.io/critical-data/blog/2014/01/03/blog-1/</link>
+      <link>https://criticaldata.mit.edu/blog/2014/01/03/blog-1/</link>
       <pubDate>Fri, 03 Jan 2014 12:00:00 -0400</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/blog/2014/01/03/blog-1/</guid>
+      <guid>https://criticaldata.mit.edu/blog/2014/01/03/blog-1/</guid>
       <description>The inaugural Critical Data Marathon brought together various disciplines – computer science, medicine, nursing, pharmacy, biostatistics, epidemiology, informatics, business, health policy, and the social sciences – from both academia and industry. Watch the summary of the data marathon presented by Dr. Leo Celi at the Critical Data Conference.
 Stata Center, MIT, 3-5th January 2014
 Check out the Google+ Site for more information.

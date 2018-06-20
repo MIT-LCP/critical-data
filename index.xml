@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Better Science</title>
-    <link>https://mit-lcp.github.io/critical-data/</link>
+    <link>https://criticaldata.mit.edu/</link>
     <description>Recent content on Better Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Sep 2017 12:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://mit-lcp.github.io/critical-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://criticaldata.mit.edu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2017.HST.953: Collaborative Data Science in Medicine</title>
-      <link>https://mit-lcp.github.io/critical-data/blog/2017/09/08/blog-4/</link>
+      <link>https://criticaldata.mit.edu/blog/2017/09/08/blog-4/</link>
       <pubDate>Fri, 08 Sep 2017 12:00:00 -0400</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/blog/2017/09/08/blog-4/</guid>
+      <guid>https://criticaldata.mit.edu/blog/2017/09/08/blog-4/</guid>
       <description>2017.HST.953: COLLABORATIVE DATA SCIENCE IN MEDICINE HST.953: Collaborative Data Science in Medicine, focuses on the secondary analysis of clinical data that is routinely collected in the process of care. In this course, students will work with Boston-area clinicians on research projects with the goal of a publication-ready manuscript at the end of the semester. Three of the 15 papers from last fall are already being reviewed by various clinical journals, while the rest are on track for submission over the next few months.</description>
     </item>
     
     <item>
       <title>Critical Datathon 2015</title>
-      <link>https://mit-lcp.github.io/critical-data/blog/2015/09/25/blog-3/</link>
+      <link>https://criticaldata.mit.edu/blog/2015/09/25/blog-3/</link>
       <pubDate>Fri, 25 Sep 2015 12:00:00 -0400</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/blog/2015/09/25/blog-3/</guid>
+      <guid>https://criticaldata.mit.edu/blog/2015/09/25/blog-3/</guid>
       <description>Datathon 2015 This weekend long (September 25-27) event brings together clinicians, data scientists and innovators in healthcare to address current problems in intensive care. The increasing wealth of patient data available through electronic health records has created a surge in research funding and industry interest in health data analytics. Challenges in extracting knowledge from health record databases, however, are significant.
 The event will strengthen cross-disciplinary collaboration around secondary analysis of electronic health record data, helping to pave the way for reliable knowledge to be translated into action, for the benefit of patients.</description>
     </item>
     
     <item>
       <title>Critical Datathon Fall 2014</title>
-      <link>https://mit-lcp.github.io/critical-data/blog/2014/09/05/blog-2/</link>
+      <link>https://criticaldata.mit.edu/blog/2014/09/05/blog-2/</link>
       <pubDate>Fri, 05 Sep 2014 12:00:00 -0400</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/blog/2014/09/05/blog-2/</guid>
+      <guid>https://criticaldata.mit.edu/blog/2014/09/05/blog-2/</guid>
       <description>Critical Datathon Fall 2014 Our 2nd Datathon brought together frontline healthcare providers (nurses, pharmacists, doctors) with data scientists to answer clinically-relevant questions over the course of a weekend. Participants will work with a large open-access ICU database called MIMIC, a creation of a public-private partnership between the Beth Israel Deaconess Medical Center (BIDMC), MIT, and Philips Healthcare. This weekend event ran in partnership with the 41st annual international conference of Computing in Cardiology, hosted in Cambridge MA from 5-7 September, 2014</description>
     </item>
     
     <item>
       <title>Critical Datathon Spring 2014</title>
-      <link>https://mit-lcp.github.io/critical-data/blog/2014/01/03/blog-1/</link>
+      <link>https://criticaldata.mit.edu/blog/2014/01/03/blog-1/</link>
       <pubDate>Fri, 03 Jan 2014 12:00:00 -0400</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/blog/2014/01/03/blog-1/</guid>
+      <guid>https://criticaldata.mit.edu/blog/2014/01/03/blog-1/</guid>
       <description>The inaugural Critical Data Marathon brought together various disciplines – computer science, medicine, nursing, pharmacy, biostatistics, epidemiology, informatics, business, health policy, and the social sciences – from both academia and industry. Watch the summary of the data marathon presented by Dr. Leo Celi at the Critical Data Conference.
 Stata Center, MIT, 3-5th January 2014
 Check out the Google+ Site for more information.
@@ -53,10 +53,10 @@ The winners of the Critical Data Marathon were:</description>
     
     <item>
       <title>About</title>
-      <link>https://mit-lcp.github.io/critical-data/about/</link>
+      <link>https://criticaldata.mit.edu/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/about/</guid>
+      <guid>https://criticaldata.mit.edu/about/</guid>
       <description>MIT Critical data is an affiliation of research labs at Massachusetts Institute of Technology who are engaged in research in and around “Critical Data”, more specifically data that has a critical impact on human health.
 Research Groups Laboratory for Computational Physiology Institute for Medical Engineering &amp;amp; Science, MIT.
 The Laboratory for Computational Physiology (LCP), under the direction of Professor Roger Mark, conducts research on improving health care through new and refined approaches to interpreting data.</description>
@@ -64,19 +64,19 @@ The Laboratory for Computational Physiology (LCP), under the direction of Profes
     
     <item>
       <title>Contact</title>
-      <link>https://mit-lcp.github.io/critical-data/contact/</link>
+      <link>https://criticaldata.mit.edu/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/contact/</guid>
+      <guid>https://criticaldata.mit.edu/contact/</guid>
       <description>Reach out to MIT Critical Data If you are interested in our work or collaboration, please do contact us!</description>
     </item>
     
     <item>
       <title>Textbook</title>
-      <link>https://mit-lcp.github.io/critical-data/textbook/</link>
+      <link>https://criticaldata.mit.edu/textbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mit-lcp.github.io/critical-data/textbook/</guid>
+      <guid>https://criticaldata.mit.edu/textbook/</guid>
       <description>Secondary Analysis of Electronic Health Records http://www.springer.com/us/book/9783319437408
 This book trains the next generation of scientists representing different disciplines to leverage the data generated during routine patient care. It formulates a more complete lexicon of evidence-based recommendations and support shared, ethical decision making by doctors with their patients.
 Diagnostic and therapeutic technologies continue to evolve rapidly, and both individual practitioners and clinical teams face increasingly complex ethical decisions. Unfortunately, the current state of medical knowledge does not provide the guidance to make the majority of clinical decisions on the basis of evidence.</description>
