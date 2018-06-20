@@ -72,7 +72,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "criticaldata@physionet.org"
+    email = ""
 
     about_us = "<p>Critical data is a loose affiliation of research labs at Massachusetts Institute of Technology who are engaged in research in and around \"Critical Data\", more specifically data that has could be harnessed to better the provision of healthcare.</p>"
     copyright = "Copyright (c) 2018, MIT Critical Data; all rights reserved."
