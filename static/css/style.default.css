@@ -306,7 +306,7 @@ ul.list-style-none {
 }
 .navbar ul.nav > li > a {
   text-transform: none;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
   font-weight: bold;
   letter-spacing: 0.08em;
   border-top: solid 5px transparent;
