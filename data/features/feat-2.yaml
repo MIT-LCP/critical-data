@@ -1,5 +1,5 @@
 weight: 2
 name: "Meaningful use"
-icon: "fa fa-desktop"
+icon: "fas fa-chart-line"
 description: >
   Large amounts of data originating from critical care needs to be de-identified, analyzed and curated for it to be mined effectively. Clinicians and Data scientists must work together to understand and explore the meaningful, secondary use of Critical Care data.
