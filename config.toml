@@ -17,13 +17,13 @@ paginate = 10
 [[menu.main]]
     name = "Home"
     url  = "/"
-    weight = 1
+    weight = 10
 
 [[menu.main]]
     name = "About"
     identifier = "about"
     url  = "/about/"
-    weight = 2
+    weight = 20
 
 #[[menu.main]]
 #    name = "Registration"
@@ -32,32 +32,21 @@ paginate = 10
 #    weight = 2
 
 [[menu.main]]
-    name = "What we do"
-    identifier = "whatwedo"
-    url  = "/whatwedo/"
-    weight = 3
-
-[[menu.main.whatwedo]]
-    name = "Textbook"
-    identifier = "textbook"
-    url  = "whatwedo/textbook/"
-    weight = 3
-
-[[menu.main.whatwedo]]
-    name = "Courses"
-    identifier = "courses"
-    url  = "whatwedo/courses/"
-    weight = 3    
+   name = "What we do"
+   identifier = "whatwedo"
+   pre = "<i class='far fa-question-circle'></i>"
+   url  = "/whatwedo/"
+   weight = 30
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 4
+    weight = 40
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 50
 
 [params]
     viewMorePostLink = "/blog/"
