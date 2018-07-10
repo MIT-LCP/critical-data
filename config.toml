@@ -25,11 +25,6 @@ paginate = 10
     url  = "/about/"
     weight = 2
 
-[[menu.main]]
-    name = "News"
-    url  = "/blog/"
-    weight = 3
-
 #[[menu.main]]
 #    name = "Registration"
 #    identifier = "registration"
@@ -37,9 +32,26 @@ paginate = 10
 #    weight = 2
 
 [[menu.main]]
+    name = "What we do"
+    identifier = "whatwedo"
+    url  = "/whatwedo/"
+    weight = 3
+
+[[menu.main.whatwedo]]
     name = "Textbook"
     identifier = "textbook"
-    url  = "/textbook/"
+    url  = "whatwedo/textbook/"
+    weight = 3
+
+[[menu.main.whatwedo]]
+    name = "Courses"
+    identifier = "courses"
+    url  = "whatwedo/courses/"
+    weight = 3    
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
     weight = 4
 
 [[menu.main]]
