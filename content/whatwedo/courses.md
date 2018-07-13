@@ -31,9 +31,9 @@ Syllabus, schedule, and more information will be coming soon. Complete the Expre
 
 
 
-Desired experience:
+We are requiring non-MIT, Harvard and Wellesley students to have experience on: 
 
-* R, Python, SQL.
+* R, Python and/or SQL.
 
 
 There are no prerequisites for this course, other than the permission of the instructor. We would recommend some familiarity with basic programming and statistics, but students with biomedical backgrounds are encouraged to attend. Students wishing to audit or participate in the course are required to complete human subjects training (if they haven’t already done so), and submit proof of approval to work with the MIMIC-­III database, but will not have to complete the exercises or other assignments. All students regardless of their status are expected to join a final project group and contribute to a final project.
