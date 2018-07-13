@@ -108,9 +108,9 @@ paginate = 10
 
 [params.welcome]
     enable = true
-    icon = "fa fa-flask"
+    icon = "fas fa-signature"
     title = "MIT Critical Data"
-    subtitle = "Empowering research in critical care"
+    subtitle = "Empowering research in critical care."
 
 [params.features]
     enable = true
