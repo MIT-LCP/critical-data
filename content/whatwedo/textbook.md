@@ -3,6 +3,11 @@ title = "Textbook"
 identifier = "textbook"
 description = "Textbook"
 keywords = ["textbook"]
+weight = 1
+
+[menu]
+  [menu.main]
+    parent = "whatwedo"
 +++
 
 # Secondary Analysis of Electronic Health Records
