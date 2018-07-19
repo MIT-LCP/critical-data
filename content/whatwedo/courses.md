@@ -23,20 +23,14 @@ The digitalization of healthcare data may provides an opportunity to develop loc
 
 ### Course Information
 
-A variety of datasets will be available, including MIMIC-III and Philips eICU from the USA. The IT infrastructure will be managed by MIT and Google Cloud Platform experts.
-Syllabus, schedule, and more information will be coming soon. Complete the Expression of Interest Form to be added to our mailing list and receive email notifications.
+A variety of datasets will be available, including MIMIC-III and Philips eICU from the USA. The syllabus, schedule, and more information will be coming soon. Please complete the Expression of Interest Form to be added to our mailing list and receive email notifications.
 
 
 ### Prerequisites
 
+There are no prerequisites for this course for non-matriculating MIT, Harvard and Wellesley students. For the rest, we require some experience with R, Python and/or SQL.
+Everyone is required to complete an online human subjects training (if they haven’t already done so), and sign a Data User Agreement to obtain access to the MIMIC and eICU Collaborative Research Database. This is a project-based course and all the students are required to participate in clinical research using one or both of the databases.
 
-
-We are requiring non-MIT, Harvard and Wellesley students to have experience on: 
-
-* R, Python and/or SQL.
-
-
-There are no prerequisites for this course, other than the permission of the instructor. We would recommend some familiarity with basic programming and statistics, but students with biomedical backgrounds are encouraged to attend. Students wishing to audit or participate in the course are required to complete human subjects training (if they haven’t already done so), and submit proof of approval to work with the MIMIC-­III database, but will not have to complete the exercises or other assignments. All students regardless of their status are expected to join a final project group and contribute to a final project.
 
 
 <!-- ### Faculty
