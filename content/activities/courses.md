@@ -55,21 +55,6 @@ Everyone is required to complete an online human subjects training (if they have
 <div class="container-fluid">
    <div class="row">
       <div class="col-md-4">
-         <img  class="img-circle" src="/img/faculty_2018_hst_953/leo.jpg">
-         <div class="caption">
-            <h4>Leo Anthony Celi, MD</h4>
-            <p>
-               <a class="btn btn-light" href="" role="button" target="_blank" title="">
-               <i class="fab fa-twitter"></i></a> 
-               <a class="btn btn-light" href="https://www.linkedin.com/in/leo-anthony-celi-b25131/" role="button" target="_blank" title="">
-               <i class="fab fa-linkedin"></i></a>
-            </p>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_leo">
-            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
-            </button>
-         </div>
-      </div>
-      <div class="col-md-4">
          <img  class="img-circle" src="/img/faculty_2018_hst_953/miguel_angel_armengol_de_la_hoz.jpg">
          <div class="caption">
             <h4>Miguel Ángel Armengol, MS</h4>
@@ -85,9 +70,24 @@ Everyone is required to complete an online human subjects training (if they have
          </div>
       </div>
       <div class="col-md-4">
+         <img  class="img-circle" src="/img/faculty_2018_hst_953/leo.jpg">
+         <div class="caption">
+            <h4>Leo Anthony Celi,MD</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="https://www.linkedin.com/in/leo-anthony-celi-b25131/" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_leo">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
          <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/christina.jpg">
          <div class="caption">
-            <h4>Christina Chen, MD</h4>
+            <h4>Christina Chen,MD</h4>
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
@@ -104,11 +104,11 @@ Everyone is required to complete an online human subjects training (if they have
             <div class="col-md-4">
          <img alt=""  class="img-circle" src="/img/faculty_2018_hst_953/marta.jpg">
          <div class="caption">
-            <h4>Marta Fernandes</h4>
+            <h4>Marta Fernandes,MSc</h4>
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
-               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <a class="btn btn-light" href="http://pt.linkedin.com/in/martafernandes88" role="button" target="_blank" title="">
                <i class="fab fa-linkedin"></i></a>
             </p>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_marta">
@@ -119,7 +119,7 @@ Everyone is required to complete an online human subjects training (if they have
       <div class="col-md-4">
          <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/euma.jpg">
          <div class="caption">
-            <h4>Euma  Ishii</h4>
+            <h4>Euma Ishii</h4>
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
@@ -134,7 +134,7 @@ Everyone is required to complete an online human subjects training (if they have
       <div class="col-md-4">
          <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/alistair.jpg">
          <div class="caption">
-            <h4>Alistair  Johnson</h4>
+            <h4>Alistair Johnson, D.Phil</h4>
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
@@ -166,7 +166,7 @@ Everyone is required to complete an online human subjects training (if they have
       <div class="col-md-4">
          <img  class="img-circle" src="/img/faculty_2018_hst_953/ken.jpg">
          <div class="caption">
-            <h4>Ken Paik</h4>
+            <h4>Ken Paik,MD</h4>
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
@@ -181,7 +181,7 @@ Everyone is required to complete an online human subjects training (if they have
       <div class="col-md-4">
          <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/tom.jpg">
          <div class="caption">
-            <h4>Tom Pollard</h4>
+            <h4>Tom Pollard,PhD</h4>
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
@@ -198,7 +198,7 @@ Everyone is required to complete an online human subjects training (if they have
       <div class="col-md-4">
          <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/jesse.jpg">
          <div class="caption">
-            <h4>Jesse Raffa</h4>
+            <h4>Jesse Raffa,PhD</h4>
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
@@ -228,7 +228,7 @@ Everyone is required to complete an online human subjects training (if they have
       <div class="col-md-4">
          <img alt=""   class="img-circle" src="/img/faculty_2018_hst_953/shawn.jpg">
          <div class="caption">
-            <h4>Shawn Sturland</h4>
+            <h4>Shawn Sturland,MD</h4>
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
@@ -286,19 +286,109 @@ Everyone is required to complete an online human subjects training (if they have
          <div class="modal-header">
             <h5 class="modal-title" id="exampleModalLongTitle">Miguel Ángel Armengol de la Hoz, MS</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
             </button>
          </div>
          <div class="modal-body">
             <p>Miguel Ángel Armengol de la Hoz, MS is a Senior Research Associate at Harvard-MIT Division of Health Sciences. Moreover he is Chair of the study group 'Big Data and Machine Learning: Shaping the Future of Healthcare' at Harvard. He is a Telecommunication Engineer with a M.S. in Biomedical Engineering from Universidad Politécnica de Madrid and is currently a PhD Candidate in Biomedical Engineering at the same university. Working at the Department of Anesthesia, Critical Care and Pain Medicine - Center for Anesthesia Research Excellence he is helping to expand the current analytic capabilities and design new strategies and applications within this dynamic and innovative organization. He has being applying state-of-the-art advanced analytic and quantitative tools and modelling techniques to derive insights, solve complex problems and improve decisions about both patients and providers from the department.
                As an affiliate at the LCP, Laboratory of Computational Physiology and MIT Critical Data group, he has experience working with large and complex data sets related to critically ill patients (Intensive Care Unity and Emergency Room).
             </p>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button> 
          </div>
       </div>
    </div>
 </div>
-
+<div class="modal fade" id="modal_leo" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Leo Anthony Celi, MD</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
+            </button>
+         </div>
+         <div class="modal-body">
+            <p>Leo Anthony Celi, MD has practiced medicine in three continents, giving him broad perspectives in healthcare delivery. As clinical research director and principal research scientist at the MIT Laboratory of Computational Physiology (LCP), he brings together clinicians and data scientists to support research using data routinely collected in the intensive care unit (ICU). His group built and maintains the Medical Information Mart for Intensive Care (MIMIC) database. This public-access database, which now holds clinical data from over 60,000 stays in BIDMC ICUs, has been meticulously de-identified and is freely shared online with the research community. It is an unparalleled research resource; over 4000 investigators from more than 30 countries have free access to the clinical data under a data use agreement. In 2016, LCP partnered with Philips eICU Research Institute to host the eICU database with more than 2 million ICU patients admitted across the United States. The goal is to scale the database globally with contributions from the United Kingdom, France, Spain and Brazil over the next year.
+            </br>
+            Leo founded and co-directs Sana, a cross-disciplinary organization based at the Institute for Medical Engineering and Science at MIT, whose objective is to leverage information technology to improve health outcomes in low- and middle-income countries. At its core is an open-source mobile tele-health platform that allows for capture, transmission and archiving of complex medical data (e.g. images, videos, physiologic signals such as ECG, EEG and oto-acoustic emission responses), in addition to patient demographic and clinical information. Sana is the inaugural recipient of both the mHealth (Mobile Health) Alliance Award from the United Nations Foundation and the Wireless Innovation Award from the Vodafone Foundation in 2010. The software has since been implemented around the globe including India, Kenya, Lebanon, Haiti, Mongolia, Uganda, Brazil, Ethiopia, Argentina, and South Africa.
+            </br>
+            He is one of the course directors for HST.936 – global health informatics to improve quality of care, and HST.953 – secondary analysis of electronic health records, both at MIT. He is an editor of the textbook for each course, both released under an open access license. The textbook “Secondary Analysis of Electronic Health Records” came out in October 2016 and was downloaded more the 100,000 times in the first ten months of publication. The course “Global Health Informatics to Improve Quality of Care” was launched under edX in February 2017.
+            </br>
+            Leo was featured as a designer in the Smithsonian Museum National Design Triennial “Why Design Now?” held at the Cooper-Hewitt Museum in New York City in 2010 for his work in global health informatics. He has spoken in more than 20 countries about the value of data in improving population health.
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="modal fade" id="modal_jesse" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Jesse Raffa, PhD</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
+            </button>
+         </div>
+         <div class="modal-body">
+            <p>Jesse Raffa, PhD, is a Research Scientist at the Laboratory of Computational Physiology at MIT. His background is in biostatistics and epidemiology, having completed a PhD in biostatistics from the University of Waterloo, Canada, and more recently, a postdoc at the University of Washington, USA. His methodological interests include modeling complex longitudinal data and reproducible research. He has collaborated with colleagues in a diverse set of fields including: virology, addiction, psychiatry, the social sciences, genetics and critical care. He was the recipient of the New Investigator of the Year for Clinical Science by the Canadian Association of HIV/AIDS Research in 2004, and winner of a Distinguished Student Paper award by the Eastern North American section of the International Biometrics Society in 2013.
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="modal fade" id="modal_ken" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Kenneth Paik, MD</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
+            </button>
+         </div>
+         <div class="modal-body">
+            <p>Kenneth Paik, MD is a clinical informatician driving quality improvement and democratizing access through technology innovation, combining a multidisciplinary background in medicine, artificial intelligence, business management, and technology strategy. He is a research scientist at the MIT Laboratory for Computational Physiology investigating the secondary analysis of health data and building intelligent decision support systems.
+            </p>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="modal fade" id="modal_christina" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Christina Chen, MD</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
+            </button>
+         </div>
+         <div class="modal-body">
+            <p>Christina Chen, MD is a physician scientist who is an Instructor at Harvard Medical School, staff nephrologist at Beth Israel Deaconess Medical, and a research scientist at the MIT Laboratory for Computational Physiology. She currently attends on the nephrology consult service at BIDMC and has an outpatient renal clinic where she works with medical students, residents, and fellows. With her background in engineering and medicine, she hopes to help bridge the gap between data scientists and clinicians to answer innovative questions. Her current research interests include studying acute kidney injury as well as using echocardiography to determine effects of cardiac dysfunction on outcomes.
+         </div>
+      </div>
+   </div>
+</div>
+<div class="modal fade" id="modal_marta" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Marta Fernandes, PhD</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
+            </button>
+         </div>
+         <div class="modal-body">
+            <p>Marta Fernandes is a PhD candidate in Engineering Design and Advanced 
+              Manufacturing from MIT Portugal Program, since 2016.
+              She focuses her research in applying Artificial Intelligence (AI) to 
+              healthcare data from the Emergency Department and Intensive Care Unit of 
+              Portuguese and US hospitals. Marta is a MSc in Mechanical Engineering 
+              and she has also done research in the fields of water management, wave 
+              energy and natural gas using AI. She has a keen interest in the 
+              development of innovative AI solutions to solve the world's most 
+              challenging problems.
+         </div>
+      </div>
+   </div>
+</div>
 
 <!-- ### Expresion of Interest
 
