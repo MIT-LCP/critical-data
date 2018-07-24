@@ -7,7 +7,7 @@ weight = 1
 
 [menu]
   [menu.main]
-    parent = "whatwedo"
+    parent = "Activities"
 +++
 
 # Secondary Analysis of Electronic Health Records

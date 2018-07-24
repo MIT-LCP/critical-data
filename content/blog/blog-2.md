@@ -2,7 +2,7 @@
 title = "Critical Datathon Fall 2014"
 date = "2014-09-05T12:00:00-04:00"
 tags = ["datathon"]
-categories = ["events"]
+categories = ["blog"]
 banner = "img/blog/datathon-fall-2014.jpg"
 +++
 

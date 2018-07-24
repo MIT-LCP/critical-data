@@ -8,3 +8,23 @@
 .box-simple {
   min-height: 230px;
 }
+
+.img-circle {
+  width: 200px;
+  height: 200px;
+
+}
+
+.img-circle:hover {
+
+
+
+  /* HOVER ON */
+ -webkit-transition: border-radius 0.5s;
+ border-radius: 0px;
+
+}
+
+.caption{
+ padding: 20px;
+}

@@ -2,7 +2,7 @@
 title = "Critical Datathon Spring 2014"
 date = "2014-01-03T12:00:00-04:00"
 tags = ["datathon"]
-categories = ["events"]
+categories = ["blog"]
 banner = "img/blog/hack-on.png"
 +++
 
