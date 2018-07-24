@@ -37,7 +37,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Events"
-    url  = "/events/"
+    url  = "/blog/"
     weight = 40
 
 [[menu.main]]
@@ -46,7 +46,7 @@ paginate = 10
     weight = 50
 
 [params]
-    viewMorePostLink = "/events/"
+    viewMorePostLink = "/blog/"
     author = "MIT Critical Data"
     defaultKeywords = ["better science", "reproducibility", "replicability"]
     defaultDescription = "Better science ideathon"
