@@ -1,0 +1,305 @@
++++
+title = "Courses"
+description = "About Our Courses"
+identifier = "courses"
+keywords = ["courses"]
+weight = 2
+
+[menu]
+  [menu.main]
+    parent = "Activities"
++++
+
+# Upcoming Courses
+
+## 2018.HST.953: Collaborative Data Science in Medicine
+
+*HST.953: Collaborative Data Science in Medicine* focuses on the secondary analysis of clinical data that is routinely collected in the process of care. In this fall course, students will work with Boston-area clinicians on research projects with the goal of a publication-ready manuscript at the end of the semester. Several of the papers from last 2 courses have already been published in high-impact clinical journals.
+
+### Background
+
+While clinical trials are best in inferring causality, they are not adept at demonstrating small effect size across a population, which is typical given heterogeneity of treatment effect. Moreover, clinical trials typically exclude important subgroups (older patients, those with chronic diseases): findings may not be generalizable to the real-world. Because of the limitations of clinical trials including cost, many practice guidelines are supported by low-quality evidence. To make matters worse, these guidelines are often adopted in countries where funding for research is limited.
+The digitalization of healthcare data may provides an opportunity to develop locally relevant practice guidelines rather than adopting those that are based on research on populations that may not generalize to. Digital data is proliferating in diverse forms within the healthcare field, not only because of the adoption of electronic health records, but also because of the growing use of wireless technologies for ambulatory monitoring. Since clinical trials may be too expensive to perform in most countries, digital health data provides an opportunity to conduct locally relevant research. Rigorous observational studies have been shown to correlate well with clinical trials across the medical literature in terms of estimates of risk and effect size. The world is abuzz with applications of machine learning in almost every field – commerce, transportation, banking, and more recently, healthcare. These breakthroughs are due to rediscovered algorithms, powerful computers to run them, and most importantly, the availability of bigger and better data to train the algorithms.
+
+### Course Information
+
+A variety of datasets will be available, including MIMIC-III and Philips eICU from the USA. The syllabus, schedule, and more information will be coming soon. Please complete the Expression of Interest Form to be added to our mailing list and receive email notifications.
+
+
+### Prerequisites
+
+There are no prerequisites for this course for non-matriculating MIT, Harvard and Wellesley students. For the rest, we require some experience with R, Python and/or SQL.
+Everyone is required to complete an online human subjects training (if they haven’t already done so), and sign a Data User Agreement to obtain access to the MIMIC and eICU Collaborative Research Database. This is a project-based course and all the students are required to participate in clinical research using one or both of the databases.
+
+<div class="container-fluid">
+<div class="row">
+   <div class="col-md-4">
+   </div>
+   <div class="col-md-4">
+      <h3 style="text-align: center;">
+         <p class="lead">
+            Please, sign up here if you are interested in the course.         </p>
+         <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScERbW6dVZ6k_ZvJFe0xacN1zKl4PczDMzoWZOwjRgsR2Z_Rw/viewform" target="_blank">Expression of Interest 
+         <i class="fas fa-bullhorn"></i></a>
+      </h3>
+   </div>
+   <div class="col-md-4">
+   </div>
+</div>
+</div>
+
+
+
+### Faculty
+
+<div class="container-fluid">
+   <div class="row">
+      <div class="col-md-4">
+         <img  class="img-circle" src="/img/faculty_2018_hst_953/leo.jpg">
+         <div class="caption">
+            <h4>Leo Anthony Celi, MD</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="https://www.linkedin.com/in/leo-anthony-celi-b25131/" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_leo">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img  class="img-circle" src="/img/faculty_2018_hst_953/miguel_angel_armengol_de_la_hoz.jpg">
+         <div class="caption">
+            <h4>Miguel Ángel Armengol, MS</h4>
+            <p>
+               <a class="btn btn-light" href="https://twitter.com/miguearmengol" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="https://www.linkedin.com/in/miguelangelarmengol/" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_miguel">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/christina.jpg">
+         <div class="caption">
+            <h4>Christina Chen, MD</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_christina">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+   </div>
+<div class="row">
+            <div class="col-md-4">
+         <img alt=""  class="img-circle" src="/img/faculty_2018_hst_953/marta.jpg">
+         <div class="caption">
+            <h4>Marta Fernandes</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_marta">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/euma.jpg">
+         <div class="caption">
+            <h4>Euma  Ishii</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_euma">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/alistair.jpg">
+         <div class="caption">
+            <h4>Alistair  Johnson</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_alistair">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+</div>
+<div class="row">
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/ryan.jpg">
+         <div class="caption">
+            <h4>Ryan Kindle</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_ryan">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img  class="img-circle" src="/img/faculty_2018_hst_953/ken.jpg">
+         <div class="caption">
+            <h4>Ken Paik</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_ken">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/tom.jpg">
+         <div class="caption">
+            <h4>Tom Pollard</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_tom">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+</div>
+<div class="row">
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/jesse.jpg">
+         <div class="caption">
+            <h4>Jesse Raffa</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_jesse">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/nikhil.jpg">
+         <div class="caption">
+            <h4>Nikhil Shankar</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_nikhil">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img alt=""   class="img-circle" src="/img/faculty_2018_hst_953/shawn.jpg">
+         <div class="caption">
+            <h4>Shawn Sturland</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_shawn">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+</div>
+<div class="row">
+      <div class="col-md-4">
+      </div>
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/weihung.jpg">
+         <div class="caption">
+            <h4>Wei-Hung Weng</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_weihung">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+      </div>
+</div>
+<div class="row">
+   <div class="col-md-4">
+   </div>
+   <div class="col-md-4">
+      <h3 style="text-align: center;">
+         <p class="lead">
+            Please, sign up here if you are interested in taking the course.
+         </p>
+         <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScERbW6dVZ6k_ZvJFe0xacN1zKl4PczDMzoWZOwjRgsR2Z_Rw/viewform" target="_blank">Expression of Interest 
+         <i class="fas fa-bullhorn"></i></a>
+      </h3>
+   </div>
+   <div class="col-md-4">
+   </div>
+</div>
+</div> 
+
+<!-- Modals -->
+<div class="modal fade" id="modal_miguel" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Miguel Ángel Armengol de la Hoz, MS</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">×</span>
+            </button>
+         </div>
+         <div class="modal-body">
+            <p>Miguel Ángel Armengol de la Hoz, MS is a Senior Research Associate at Harvard-MIT Division of Health Sciences. Moreover he is Chair of the study group 'Big Data and Machine Learning: Shaping the Future of Healthcare' at Harvard. He is a Telecommunication Engineer with a M.S. in Biomedical Engineering from Universidad Politécnica de Madrid and is currently a PhD Candidate in Biomedical Engineering at the same university. Working at the Department of Anesthesia, Critical Care and Pain Medicine - Center for Anesthesia Research Excellence he is helping to expand the current analytic capabilities and design new strategies and applications within this dynamic and innovative organization. He has being applying state-of-the-art advanced analytic and quantitative tools and modelling techniques to derive insights, solve complex problems and improve decisions about both patients and providers from the department.
+               As an affiliate at the LCP, Laboratory of Computational Physiology and MIT Critical Data group, he has experience working with large and complex data sets related to critically ill patients (Intensive Care Unity and Emergency Room).
+            </p>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button> 
+         </div>
+      </div>
+   </div>
+</div>
+
+
+<!-- ### Expresion of Interest
+
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScERbW6dVZ6k_ZvJFe0xacN1zKl4PczDMzoWZOwjRgsR2Z_Rw/viewform" width="100%" height="1500px" frameBorder="0">Browser not compatible.</iframe> -->

@@ -1,5 +1,5 @@
 baseurl = "https://criticaldata.mit.edu/"
-title = "Better Science"
+title = "Critical Data"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -32,15 +32,12 @@ paginate = 10
 #    weight = 2
 
 [[menu.main]]
-   name = "What we do"
-   identifier = "whatwedo"
-   pre = "<i class='far fa-question-circle'></i>"
-   url  = "/whatwedo/"
+   name = "Activities"
    weight = 30
 
 [[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
+    name = "Events"
+    url  = "/events/"
     weight = 40
 
 [[menu.main]]
@@ -49,7 +46,7 @@ paginate = 10
     weight = 50
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/events/"
     author = "MIT Critical Data"
     defaultKeywords = ["better science", "reproducibility", "replicability"]
     defaultDescription = "Better science ideathon"
