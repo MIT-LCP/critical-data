@@ -226,7 +226,7 @@ Everyone is required to complete an online human subjects training (if they have
          </div>
       </div>
       <div class="col-md-4">
-         <img alt=""   class="img-circle" src="/img/faculty_2018_hst_953/unkwown.jpg">
+         <img alt=""   class="img-circle" src="/img/faculty_2018_hst_953/shawn.jpg">
          <div class="caption">
             <h4>Shawn Sturland,MD</h4>
             <p>
@@ -389,11 +389,11 @@ Everyone is required to complete an online human subjects training (if they have
       </div>
    </div>
 </div>
-<div class="modal fade" id="modal_euama" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal fade" id="modal_euma" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
    <div class="modal-dialog" role="document">
       <div class="modal-content">
          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLongTitle">Marta Fernandes, PhD</h5>
+            <h5 class="modal-title" id="exampleModalLongTitle">Euma Ishii</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
             </button>
