@@ -123,7 +123,7 @@ Everyone is required to complete an online human subjects training (if they have
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
-               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <a class="btn btn-light" href="http://linkedin.com/in/julian-euma-i-60a45328" role="button" target="_blank" title="">
                <i class="fab fa-linkedin"></i></a>
             </p>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_euma">
@@ -149,7 +149,7 @@ Everyone is required to complete an online human subjects training (if they have
 </div>
 <div class="row">
       <div class="col-md-4">
-         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/unknown.jpg">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/ryan.jpg">
          <div class="caption">
             <h4>Ryan Kindle</h4>
             <p>
