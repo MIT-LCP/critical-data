@@ -1,5 +1,6 @@
 +++
 title = "Courses"
+date = "2018-07-24T12:00:00-04:00"
 description = "About Our Courses"
 identifier = "courses"
 keywords = ["courses"]
@@ -119,11 +120,11 @@ Everyone is required to complete an online human subjects training (if they have
       <div class="col-md-4">
          <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/euma.jpg">
          <div class="caption">
-            <h4>Euma Ishii</h4>
+            <h4>Julian Euma <br> Ishii-Rousseau</h4>
             <p>
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-twitter"></i></a> 
-               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <a class="btn btn-light" href="http://linkedin.com/in/julian-euma-i-60a45328" role="button" target="_blank" title="">
                <i class="fab fa-linkedin"></i></a>
             </p>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_euma">
@@ -149,7 +150,7 @@ Everyone is required to complete an online human subjects training (if they have
 </div>
 <div class="row">
       <div class="col-md-4">
-         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/unknown.jpg">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/ryan.jpg">
          <div class="caption">
             <h4>Ryan Kindle</h4>
             <p>
@@ -393,7 +394,7 @@ Everyone is required to complete an online human subjects training (if they have
    <div class="modal-dialog" role="document">
       <div class="modal-content">
          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLongTitle">Euma Ishii</h5>
+            <h5 class="modal-title" id="exampleModalLongTitle">Julian Euma Ishii-Rousseau</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
             </button>
