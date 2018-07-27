@@ -16,7 +16,7 @@ Institute for Medical Engineering \& Science, MIT.
 The Laboratory for Computational Physiology (LCP), under the direction of Professor Roger Mark, conducts research on improving health care through new and refined approaches to interpreting data. Some of the group’s researchers have medical backgrounds; others have backgrounds in computer science, electrical engineering, physics, or mathematics; and others have training that spans several of these disciplines. Current projects include:
 
 * [Physionet](http://www.physionet.org/)
-* [MIMIC-II](http://mimic.physionet.org/)
+* [MIMIC-III](http://mimic.physionet.org/)
 
 
 ### [Computational Physiology and Clinical Inference Group](http://www.rle.mit.edu/cpci/)
