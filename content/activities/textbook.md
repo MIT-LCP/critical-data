@@ -27,7 +27,7 @@ Authors (Listed Alphabetically):
 * Dominic Marshall
 * Jesse Raffa
 * Justin Salciccioli
-* Kenneth Paik
+* Kenneth E. Paik
 * Leo Anthony Celi
 * Matthieu Komorowski
 * Mohammad Ghassemi
