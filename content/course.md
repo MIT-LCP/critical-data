@@ -11,6 +11,7 @@ banner = "img/blog/data.jpg"
 [menu]
   [menu.main]
     parent = "Activities"
+
 +++
 
 ## 2018.HST.953: Collaborative Data Science in Medicine
