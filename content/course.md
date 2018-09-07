@@ -14,6 +14,12 @@ banner = "img/blog/data.jpg"
 
 +++
 
+## Course edX 
+
+This course will be using an expiremental edX platform for sharing materials and evaluating progress.  This is NOT hosted on the standard edx.org website, but instead their experimental EDGE server.
+
+https://edge.edx.org/courses/course-v1:MITx+HST.953+2T2018/course/
+
 ## 2018.HST.953: Collaborative Data Science in Medicine
 
 *HST.953: Collaborative Data Science in Medicine* is a course that focuses on the secondary analysis of clinical data that is routinely collected in the process of care. In this fall course, students will work with Boston-area clinicians on research projects with the goal of a publication-ready manuscript at the end of the semester. Several of the papers from last 2 courses have already been published in high-impact clinical journals.
