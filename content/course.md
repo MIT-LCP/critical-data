@@ -14,7 +14,7 @@ banner = "img/blog/data.jpg"
 
 +++
 
-## Course edX (Current Students Only) 
+## Course edX (In-class Students Only) 
 
 This course will be using an expiremental edX platform for sharing materials and evaluating progress.  This is NOT hosted on the standard edx.org website, but instead their experimental EDGE server. Follow the link to register a new account on the website and enroll in the course:
 
