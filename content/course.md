@@ -16,7 +16,7 @@ banner = "img/blog/data.jpg"
 
 ## Course edX 
 
-This course will be using an expiremental edX platform for sharing materials and evaluating progress.  This is NOT hosted on the standard edx.org website, but instead their experimental EDGE server. Follow the link to register a new account on the website and enroll in the course.
+This course will be using an expiremental edX platform for sharing materials and evaluating progress.  This is NOT hosted on the standard edx.org website, but instead their experimental EDGE server. Follow the link to register a new account on the website and enroll in the course:
 
 https://edge.edx.org/courses/course-v1:MITx+HST.953+2T2018/course/
 
