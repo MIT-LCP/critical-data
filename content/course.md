@@ -14,7 +14,7 @@ banner = "img/blog/data.jpg"
 
 +++
 
-## Course edX 
+## Course edX (Current Students Only)
 
 This course will be using an expiremental edX platform for sharing materials and evaluating progress.  This is NOT hosted on the standard edx.org website, but instead their experimental EDGE server. Follow the link to register a new account on the website and enroll in the course:
 
@@ -44,21 +44,6 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
 
 <div><p>For more info please, contact us: <a href="mailto:hst953faculty@mit.edu" target="_blank">HST953 Faculty <i class="far fa-envelope"></i></a></p>
 </div>
-
-<div class="container-fluid">
-<div class="row">
-   <div class="col-md-4">
-   </div>
-      <div class="col-md-4">
-      <h3 style="text-align: center;">
-         <a href="https://docs.google.com/forms/d/e/1FAIpQLScERbW6dVZ6k_ZvJFe0xacN1zKl4PczDMzoWZOwjRgsR2Z_Rw/viewform" target="_blank"><i class="fas fa-chalkboard-teacher fa-2x"></i><br>Please, sign up here if you are interested in taking the course. </a>
-      </h3>
-      </div>
-   <div class="col-md-4">
-   </div>
-</div>
-</div>
-
 
 
 ### Faculty (Listed Alphabetically)
@@ -301,17 +286,6 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
          </div>
       </div>
 </div>
-<div class="row">
-   <div class="col-md-4">
-   </div>
-      <div class="col-md-4">
-      <h3 style="text-align: center;">
-         <a href="https://docs.google.com/forms/d/e/1FAIpQLScERbW6dVZ6k_ZvJFe0xacN1zKl4PczDMzoWZOwjRgsR2Z_Rw/viewform" target="_blank"><i class="fas fa-chalkboard-teacher fa-2x"></i><br>Please, sign up here if you are interested in taking the course. </a>
-      </h3>
-      </div>
-   <div class="col-md-4">
-   </div>
-</div>
 </div> 
 
 <!-- Modals -->
@@ -510,12 +484,6 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
    </div>
 </div>
 
-For more info please, contact us: <a href="mailto:hst953faculty@mit.edu" target="_blank">HST953 Faculty <i class="far fa-envelope"></i></a>
-
-
-<!-- ### Expresion of Interest
-
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScERbW6dVZ6k_ZvJFe0xacN1zKl4PczDMzoWZOwjRgsR2Z_Rw/viewform" width="100%" height="1500px" frameBorder="0">Browser not compatible.</iframe> -->
  
 # Projects List
 
