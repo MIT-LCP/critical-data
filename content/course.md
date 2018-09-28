@@ -44,7 +44,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
 </div>
 
 
-### Faculty (Listed Alphabetically)
+### Faculty
 
 <div class="container-fluid">
    <div class="row">
@@ -283,6 +283,70 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
       </div>
+</div> 
+   <div class="row">     
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/unknown.jpg">
+         <div class="caption">
+            <h4>Aldo Arevalo</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_aldo">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/andre.png">
+         <div class="caption">
+            <h4>André Silva</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_andre">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/kimiko.jpg">
+         <div class="caption">
+            <h4>Yueh-Hsun Chuang</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_kimiko">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div> 
+</div>
+<div class="row">               
+      <div class="col-md-4">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/ke_chun.jpg">
+         <div class="caption">
+            <h4>Ke-Chun Huang</h4>
+            <p>
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-twitter"></i></a> 
+               <a class="btn btn-light" href="" role="button" target="_blank" title="">
+               <i class="fab fa-linkedin"></i></a>
+            </p>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_ke_chun">
+            More info <i class="fa fa-info-circle" aria-hidden="true"></i>
+            </button>
+         </div>
+      </div>                
 </div>
 </div> 
 
@@ -314,14 +378,13 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Leo Anthony Celi has practiced medicine in three continents, giving him broad perspectives in healthcare delivery. As clinical research director and principal research scientist at the MIT Laboratory of Computational Physiology (LCP), he brings together clinicians and data scientists to support research using data routinely collected in the intensive care unit (ICU). His group built and maintains the Medical Information Mart for Intensive Care (MIMIC) database. This public-access database, which now holds clinical data from over 60,000 stays in BIDMC ICUs, has been meticulously de-identified and is freely shared online with the research community. It is an unparalleled research resource; over 4000 investigators from more than 30 countries have free access to the clinical data under a data use agreement. In 2016, LCP partnered with Philips eICU Research Institute to host the eICU database with more than 2 million ICU patients admitted across the United States. The goal is to scale the database globally with contributions from the United Kingdom, France, Spain and Brazil over the next year.
+            Leo Anthony Celi has practiced medicine in three continents, giving him broad perspectives in healthcare delivery. As clinical research director and principal research scientist at the MIT Laboratory of Computational Physiology (LCP), he brings together clinicians and data scientists to support research using data routinely collected in the intensive care unit (ICU). His group built and maintains the Medical Information Mart for Intensive Care (MIMIC) database. This public-access database, which now holds clinical data from over 60,000 stays in BIDMC ICUs, has been meticulously de-identified and is freely shared online with the research community. It is an unparalleled research resource; over 4000 investigators from more than 30 countries have free access to the clinical data under a data use agreement. In 2016, LCP partnered with Philips eICU Research Institute to host the eICU database with more than 2 million ICU patients admitted across the United States. The goal is to scale the database globally with contributions from the United Kingdom, France, Spain and Brazil over the next year.
             </br>
             Leo founded and co-directs Sana, a cross-disciplinary organization based at the Institute for Medical Engineering and Science at MIT, whose objective is to leverage information technology to improve health outcomes in low- and middle-income countries. At its core is an open-source mobile tele-health platform that allows for capture, transmission and archiving of complex medical data (e.g. images, videos, physiologic signals such as ECG, EEG and oto-acoustic emission responses), in addition to patient demographic and clinical information. Sana is the inaugural recipient of both the mHealth (Mobile Health) Alliance Award from the United Nations Foundation and the Wireless Innovation Award from the Vodafone Foundation in 2010. The software has since been implemented around the globe including India, Kenya, Lebanon, Haiti, Mongolia, Uganda, Brazil, Ethiopia, Argentina, and South Africa.
             </br>
             He is one of the course directors for HST.936 – global health informatics to improve quality of care, and HST.953 – secondary analysis of electronic health records, both at MIT. He is an editor of the textbook for each course, both released under an open access license. The textbook “Secondary Analysis of Electronic Health Records” came out in October 2016 and was downloaded more the 100,000 times in the first ten months of publication. The course “Global Health Informatics to Improve Quality of Care” was launched under edX in February 2017.
             </br>
             Leo was featured as a designer in the Smithsonian Museum National Design Triennial “Why Design Now?” held at the Cooper-Hewitt Museum in New York City in 2010 for his work in global health informatics. He has spoken in more than 20 countries about the value of data in improving population health.
-            </p>
          </div>
       </div>
    </div>
@@ -336,8 +399,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Jesse Raffa, PhD, is a Research Scientist at the Laboratory of Computational Physiology at MIT. His background is in biostatistics and epidemiology, having completed a PhD in biostatistics from the University of Waterloo, Canada, and more recently, a postdoc at the University of Washington, USA. His methodological interests include modeling complex longitudinal data and reproducible research. He has collaborated with colleagues in a diverse set of fields including: virology, addiction, psychiatry, the social sciences, genetics and critical care. He was the recipient of the New Investigator of the Year for Clinical Science by the Canadian Association of HIV/AIDS Research in 2004, and winner of a Distinguished Student Paper award by the Eastern North American section of the International Biometrics Society in 2013.
-            </p>
+            Jesse Raffa, PhD, is a Research Scientist at the Laboratory of Computational Physiology at MIT. His background is in biostatistics and epidemiology, having completed a PhD in biostatistics from the University of Waterloo, Canada, and more recently, a postdoc at the University of Washington, USA. His methodological interests include modeling complex longitudinal data and reproducible research. He has collaborated with colleagues in a diverse set of fields including: virology, addiction, psychiatry, the social sciences, genetics and critical care. He was the recipient of the New Investigator of the Year for Clinical Science by the Canadian Association of HIV/AIDS Research in 2004, and winner of a Distinguished Student Paper award by the Eastern North American section of the International Biometrics Society in 2013.
          </div>
       </div>
    </div>
@@ -352,8 +414,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Kenneth Paik is a clinical informatician driving quality improvement and democratizing access through technology innovation, combining a multidisciplinary background in medicine, artificial intelligence, business management, and technology strategy. He is a research scientist at the MIT Laboratory for Computational Physiology investigating the secondary analysis of health data and building intelligent decision support systems.
-            </p>
+            Kenneth Paik is a clinical informatician driving quality improvement and democratizing access through technology innovation, combining a multidisciplinary background in medicine, artificial intelligence, business management, and technology strategy. He is a research scientist at the MIT Laboratory for Computational Physiology investigating the secondary analysis of health data and building intelligent decision support systems.
          </div>
       </div>
    </div>
@@ -368,7 +429,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Christina Chen is a physician scientist who is an Instructor at Harvard Medical School, staff nephrologist at Beth Israel Deaconess Medical, and a research scientist at the MIT Laboratory for Computational Physiology. She currently attends on the nephrology consult service at BIDMC and has an outpatient renal clinic where she works with medical students, residents, and fellows. With her background in engineering and medicine, she hopes to help bridge the gap between data scientists and clinicians to answer innovative questions. Her current research interests include studying acute kidney injury as well as using echocardiography to determine effects of cardiac dysfunction on outcomes.
+            Christina Chen is a physician scientist who is an Instructor at Harvard Medical School, staff nephrologist at Beth Israel Deaconess Medical, and a research scientist at the MIT Laboratory for Computational Physiology. She currently attends on the nephrology consult service at BIDMC and has an outpatient renal clinic where she works with medical students, residents, and fellows. With her background in engineering and medicine, she hopes to help bridge the gap between data scientists and clinicians to answer innovative questions. Her current research interests include studying acute kidney injury as well as using echocardiography to determine effects of cardiac dysfunction on outcomes.
          </div>
       </div>
    </div>
@@ -383,7 +444,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Marta Fernandes is a PhD candidate in Engineering Design and Advanced 
+            Marta Fernandes is a PhD candidate in Engineering Design and Advanced 
               Manufacturing from MIT Portugal Program, since 2016.
               She focuses her research in applying Artificial Intelligence (AI) to 
               healthcare data from the Emergency Department and Intensive Care Unit of 
@@ -406,7 +467,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Euma is currently a medical student at Tokyo Medical and Dental University. He was born in Tokyo, grew up in Davis, California, and received an AB in biology/biochemistry from Vassar College. He has experience ranging from chemotherapeutic simulation modeling to drafting polio-eradication/global health policy proposals and has found evidence and integrating empirical methods to be a common theme in his work. He has found his calling as a potential liaison between Japan and the world, specifically to improve healthcare systems by capitalizing on his passion for management and team development. In Japan, he is currently in the process of implementing a global telemedicine platform into the field of home healthcare while also assisting the development of Japan Intensive care PAtient Database (JIPAD), Japan's largest de-identified ICU patient database that provides benchmarking for ICUs around the country. As an affiliate of MIT's Laboratory for Computational Physiology, he performs retrospective cohort studies and applies predictive approaches for improving patient care. In his spare time, he works to facilitate international partnerships, and is currently in the process of setting up a base in Japan for Global Citizen, a movement of engaged citizens using their collective voice to end extreme poverty by 2030.
+            Euma is currently a medical student at Tokyo Medical and Dental University. He was born in Tokyo, grew up in Davis, California, and received an AB in biology/biochemistry from Vassar College. He has experience ranging from chemotherapeutic simulation modeling to drafting polio-eradication/global health policy proposals and has found evidence and integrating empirical methods to be a common theme in his work. He has found his calling as a potential liaison between Japan and the world, specifically to improve healthcare systems by capitalizing on his passion for management and team development. In Japan, he is currently in the process of implementing a global telemedicine platform into the field of home healthcare while also assisting the development of Japan Intensive care PAtient Database (JIPAD), Japan's largest de-identified ICU patient database that provides benchmarking for ICUs around the country. As an affiliate of MIT's Laboratory for Computational Physiology, he performs retrospective cohort studies and applies predictive approaches for improving patient care. In his spare time, he works to facilitate international partnerships, and is currently in the process of setting up a base in Japan for Global Citizen, a movement of engaged citizens using their collective voice to end extreme poverty by 2030.
          </div>
       </div>
    </div>
@@ -422,7 +483,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Qualified originally in the UK, Shawn Sturland trained in Anaesthesia and Intensive Care Medicine in
+            Qualified originally in the UK, Shawn Sturland trained in Anaesthesia and Intensive Care Medicine in
                 Australasia. He has practiced as a Specialist Intensivist at Wellington Regional Hospital ICU for twelve
                 years, with six years as Medical Director. Alongside clinical practice, he is also the Clinical Executive
                 Director for Quality Improvement and Patient Safety at Capital and Coast District Health Board.
@@ -444,7 +505,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Alon Dagan is an emergency medicine physician with a background in biomedical engineering. He is interested in developing pragmatic and innovative healthcare tools by bridging the divide between technical and clinical fields. He is currently working clinically as an attending emergency medicine physician at both Lahey Medical Center and Beth Israel Deaconess Medical Center, and serves an Instructor of Emergency Medicine at Harvard Medical School. In addition, Dr. Dagan is a Research Affiliate at the MIT Laboratory of Computational Physiology. His work is focused on the power of bringing together practicing clinicians with technical experts in order to create meaningful and practical healthcare solutions both locally and in the global health setting. To this end he has acted as clinical faculty for both “HST 953: Collaborative Data Science in Medicine” and “HST 936: Leveraging Big Data in Global Health” hosted at the Harvard-MIT Program in Health Sciences and Technology. Additionally, he is one of the founding course instructors of “Global Health Informatics to Improve Quality of Care” a massive open online course, which has been freely accessed by more than 6000 learners in 155 countries. Dr. Dagan has also co-organized collaborative health hackathons at MIT as well as in Mexico, Colombia, Taiwan and Thailand and he has been invited to speak on the topic of fostering healthcare innovation both locally and internationally. Research interests include secondary analysis of electronic health records, machine learning and artificial intelligence in healthcare, mobile health implementation in low resource areas, global health informatics and low-cost wireless monitoring systems.
+            Alon Dagan is an emergency medicine physician with a background in biomedical engineering. He is interested in developing pragmatic and innovative healthcare tools by bridging the divide between technical and clinical fields. He is currently working clinically as an attending emergency medicine physician at both Lahey Medical Center and Beth Israel Deaconess Medical Center, and serves an Instructor of Emergency Medicine at Harvard Medical School. In addition, Dr. Dagan is a Research Affiliate at the MIT Laboratory of Computational Physiology. His work is focused on the power of bringing together practicing clinicians with technical experts in order to create meaningful and practical healthcare solutions both locally and in the global health setting. To this end he has acted as clinical faculty for both “HST 953: Collaborative Data Science in Medicine” and “HST 936: Leveraging Big Data in Global Health” hosted at the Harvard-MIT Program in Health Sciences and Technology. Additionally, he is one of the founding course instructors of “Global Health Informatics to Improve Quality of Care” a massive open online course, which has been freely accessed by more than 6000 learners in 155 countries. Dr. Dagan has also co-organized collaborative health hackathons at MIT as well as in Mexico, Colombia, Taiwan and Thailand and he has been invited to speak on the topic of fostering healthcare innovation both locally and internationally. Research interests include secondary analysis of electronic health records, machine learning and artificial intelligence in healthcare, mobile health implementation in low resource areas, global health informatics and low-cost wireless monitoring systems.
          </div>
       </div>
    </div>
@@ -460,7 +521,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Ryan Kindle is a research affiliate at the MIT Laboratory for Computational Physiology, a clinical research fellow in Pulmonary & Critical Care Medicine at the Massachusetts General Hospital & Beth Israel Deaconess Medical Center combined program, and a former software engineer. He aims to leverage his medical and engineering knowledge towards improving the application of data-driven care at the bedside through secondary analysis of electronic health records and development of clinical decision support tools.
+            Ryan Kindle is a research affiliate at the MIT Laboratory for Computational Physiology, a clinical research fellow in Pulmonary & Critical Care Medicine at the Massachusetts General Hospital & Beth Israel Deaconess Medical Center combined program, and a former software engineer. He aims to leverage his medical and engineering knowledge towards improving the application of data-driven care at the bedside through secondary analysis of electronic health records and development of clinical decision support tools.
          </div>
       </div>
    </div>
@@ -476,11 +537,73 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
             </button>
          </div>
          <div class="modal-body">
-            <p>Ned has been a data professional in Boston for the last decade.  He has held positions at BCBSMA and Kyruus, where he has focused on data insights, informatics R&D, client analytics, financial informatics, trend measurement, and product analytics.  In addition to his professional experience, he has taught classes at BU and MIT, focusing on research methodologies, global health, and data science.
+            Ned has been a data professional in Boston for the last decade.  He has held positions at BCBSMA and Kyruus, where he has focused on data insights, informatics R&D, client analytics, financial informatics, trend measurement, and product analytics.  In addition to his professional experience, he has taught classes at BU and MIT, focusing on research methodologies, global health, and data science.
          </div>
       </div>
    </div>
 </div>
+
+<div class="modal fade" id="modal_aldo" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Aldo Arevalo</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
+            </button>
+         </div>
+         <div class="modal-body">
+            Visiting PhD student in the Laboratory of Computational Physiology (LCP) at MIT from the Instituto Superior Técnico - University of Lisbon (Portugal). He is pursuing his PhD degree in Bioengineering Systems from the MIT–Portugal Program. His research is entitled to develop support decision making solutions for health professionals based on computational Intelligence systems and data mining techniques. His main purpose is to help care givers and hospital stakeholders to generate value from the anonymized Electronic Health Records (EHR's).
+         </div>
+      </div>
+   </div>
+</div>
+<div class="modal fade" id="modal_andre" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">André Silva</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
+            </button>
+         </div>
+         <div class="modal-body">
+            André Filipe Duarte da Silva is a visiting PhD Student from Portugal completing his PhD in Bioengineering Systems from the MIT Portugal Doctoral Program, at the Laboratory of Computational Physiology (LCP) at MIT. He is originally from the Center of Intelligent Systems (CIS), IDMEC, Instituto Superior Técnico, Lisbon. André Silva completed his MSc degree in Biomedical Engineering at Instituto Superior Técnico in 2015. He is currently working on the application of Machine Learning algorithms in Medicine, with the goal to make sense of medical data and to develop predictive models based on that data to be applied in clinical practice. He uses several data classification models such as bayesian networks and fuzzy modelling in order to explore the effect of several complications on the survivability of patients in the ICU as well as faster and more robust ways of identifying critical events before they happen.
+         </div>
+      </div>
+   </div>
+</div>
+<div class="modal fade" id="modal_kimiko" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Yueh-Hsun Chuang</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
+            </button>
+         </div>
+         <div class="modal-body">
+          Yueh-Hsun Chuang is a physician scientist who is an assistant professor and staff anesthesiologist at National Taiwan University Hospital, and a visiting scholar at the MIT Laboratory for Computational Physiology. He finished electrical engineering PhD degree in National Taiwan University. With his background in engineering and medicine, he can bridge between engineers, data scientists and clinicians to cooperation. His current research interests include studying cardiovascular, thoracic, and ICU problems by using big data and deep learning skills.
+         </div>
+      </div>
+   </div>
+</div>
+<div class="modal fade" id="modal_ke_chun" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+      <div class="modal-content">
+         <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Ke-Chun Huang</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"><i class="fas fa-times-circle"></i></span>
+            </button>
+         </div>
+         <div class="modal-body">
+          Ke-Chun Huang is a Postdoctoral Fellow in Prof. Mark's lab at the Institute for Medical Engineering and Science at MIT. She uses mathematical models, statistical methods and NLP algorithms to analyze data. She has years of work experience in hospitals and industry. Her research has focused on health data analytic. Her dissertation is using Naive Bayes classifiers and support vector machines to clarify whether first sentences of patient, intervention, comparison, and outcome (PICO) components are good enough for sentence-level. In the project she used Proxmos Virtual Environment for virtualization management (VM), Ubuntu, Eclipse, Python, R for statistical computing, LaTex for document preparation, Trac for issue tracking, Git and SVN for source code management (SCM), NoSQL database MongoDB for storing more than 20M abstracts fetched from PubMed and 26 workstations for computing. She also studied medical image analysis with neurosurgeons in modeling deformed brains.
+          </div>
+      </div>
+   </div>
+</div>
+
 
  
 # Projects List
