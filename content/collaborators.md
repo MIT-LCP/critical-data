@@ -1,4 +1,4 @@
-+++
+ +++
 title = "Collaborators"
 description = "About MIT Critical Data"
 identifier = "collaborators"
@@ -7,29 +7,40 @@ keywords = ["Collaborators"]
 
 
 <div class="row">
-  <h2><a href='https://lcp.mit.edu/' style='color : #333333;'> Laboratory for Computational Physiology </a></h2>
+  <h2><a href='http://clin.au.dk/en/' style='color : #333333;'> Aarhus University, Department of Anaesthesia and Intensive Care </a></h2>
   <div class="col-md-2">
-  	<a href='https://lcp.mit.edu/'><img style='height:auto;width: 100%;' class="img-circle" src="/img/collaborators/lcp-logo.png"></a>
+    <a href='http://clin.au.dk/en/'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/AU_logo.svg"></a>
   </div>
   <div class="caption col-md-10" style='padding:0'>
-   <p>
-	  The Laboratory for Computational Physiology (LCP), under the direction of Professor Roger Mark, conducts research aimed at improving health care through the generation of new knowledge, monitoring technology and clinical decision support by applying physiological signal processing, data science and machine learning technology to large collections of critical care data. The laboratory’s investigators include clinicians, computer and data scientists, electrical engineers, and biostatisticians. Current LCP research comprises two major projects, Critical Care Informatics and PhysioNet. 
-	</p>
+    <p>
+    Aarhus University is the second largest University in Denmark and affiliated with Aarhus University Hospital as the primary medical teaching hospital. Department of Clinical Medicine is Denmark’s largest health science institute conducting research in almost all medical specialities and hosting a number of different research centres. The local ICU research network is strong and covers many aspects of ICU research. Several researchers are addressing research questions in the ICU area, spanning multicenter RCTs, epidemiological studies based on the highly validated Danish registries, experimental studies in state-of-the-art facilities, and detailed physiologic analysis of captured data in the ICUs, from which particularly the latter has been the foundation for collaboration between LCP and Aarhus University.
+  </p>
   </div>
 </div>
 
 <div class="row">
   <h2><a href='http://www.tmu.edu.tw/english/main.php' style='color : #333333;'> Bioinstrumentation and Signal Processing Laboratory (KIRON), EIA University, Colombia </a></h2>
   <div class="col-md-2">
-  	<a href='http://www.tmu.edu.tw/english/main.php'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/LOGO_KIRON.jpg"></a>
+    <a href='http://www.tmu.edu.tw/english/main.php'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/LOGO_KIRON.jpg"></a>
   </div>
   <div class="caption col-md-10" style='padding:0'>
     <p>
-		The Bioinstrumentation and Signal Processing Laboratory is part of the Biomedical Engineering Department at EIA University in Medellin, Colombia. The group is focused on research and development activities over a wide range of biomedical applications covering fields as cardiovascular, respiratory, bio-sensing, mental health and well-being among others. The lab specializes in instrumentation for physiological signal acquisition, embedded processing, communication protocols, robust signal processing algorithms and machine learning. Through his research and development projects KIRON seeks to provide technological solutions and new knowledge to improve diagnosis, monitoring, treatment and prevention of diseases.
-	</p>
+    The Bioinstrumentation and Signal Processing Laboratory is part of the Biomedical Engineering Department at EIA University in Medellin, Colombia. The group is focused on research and development activities over a wide range of biomedical applications covering fields as cardiovascular, respiratory, bio-sensing, mental health and well-being among others. The lab specializes in instrumentation for physiological signal acquisition, embedded processing, communication protocols, robust signal processing algorithms and machine learning. Through his research and development projects KIRON seeks to provide technological solutions and new knowledge to improve diagnosis, monitoring, treatment and prevention of diseases.
+  </p>
   </div>
 </div>
 
+<div class="row">
+  <h2><a href='https://bmi.inf.ethz.ch' style='color : #333333;'> Biomedical Informatics Group, Department of Computer Science, ETH Zürich </a></h2>
+  <div class="col-md-2">
+    <a href='https://bmi.inf.ethz.ch'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/bmi-logo-cmyk.jpg"></a>
+  </div>
+  <div class="caption col-md-10" style='padding:0'>
+    <p>
+    The research in the Biomedical Informatics Group lies at the interface between methods research in Machine Learning & sequence analysis and relevant application areas in biology and medicine. In particular, we develop new learning techniques that are capable of dealing with large amounts of genomic data, allow for very accurate predictions on the phenomenon at hand and are able to comprehensibly provide reasons for their prognoses, and thereby assist in gaining new biomedical insights. In interdisciplinary collaborations, our group has significantly contributed to the understanding of several RNA-dependent regulatory processes including RNA splicing and protein translation. Current research focuses include large-scale Machine Learning, accurate transcriptome reconstruction, identification of RNA-processing regulators, developing clinical decision support systems (based on the analysis of electronic health records (EHR)) and developing methods and resources for international data sharing of genomic and clinical data (for instance, in the development of BRCAExchange.org).
+  </p>
+  </div>
+</div>
 
 <div class="row">
   <h2><a href='http://www.med.uth.gr/en/' style='color : #333333;'> Department of Medicine, University of Thessaly, Greece </a></h2>
@@ -54,6 +65,43 @@ keywords = ["Collaborators"]
 	</p>
   </div>
 </div>
+
+<div class="row">
+  <h2><a href='http://www.iecs.org.ar/' style='color : #333333;'> Instituto de Efectividad Clínica y Sanitaria (IECS) </a></h2>  <div class="col-md-2">
+    <a href='http://www.iecs.org.ar/'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/iecs_1.jpg"></a>
+    <a href='http://www.iecs.org.ar/'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/iecs_2.jpg"></a>
+  </div>
+  <div class="caption col-md-10" style='padding:0'>
+    <p>
+    The Institute for Clinical Effectiveness and Health Policy (IECS) is an independent academic institution devoted to health research, education, and technical cooperation in healthcare. Our mission is to contribute to the improvement of global health by generating and promoting the use of the best scientific evidence. Our institution is an executive unit of the CONICET (National Scientific and Technical Research Council) and is affiliated with the University of Buenos Aires. It has a multidisciplinary staff of professionals, including physicians, statisticians, epidemiologists, nutritionists, health economists, policy experts and social scientists, and an administrative and technical support staff. The Department of Research on Chronic Diseases seeks to promote health through the generation of scientific evidence and the implementation of interventions that prevent chronic diseases and optimize their integral management. The department has conducted many observational and experimental studies focused on prevention and control of chronic diseases, such as cardiovascular diseases, hypertension, diabetes, dyslipidemia, obesity, lung disease and cancer. Our department hosts the South American Center of Excellence for Cardiovascular Health (CESCAS), and maintains and continues to expand collaborative research on new technologies and training programs.
+  </p>
+  </div>
+</div>
+
+<div class="row">
+  <h2><a href='http://is4.tecnico.ulisboa.pt' style='color : #333333;'> Instituto Superior Técnico, Universidade de Lisboa </a></h2>  <div class="col-md-2">
+    <a href='http://is4.tecnico.ulisboa.pt'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/Lisboa-logo.png"></a>
+  </div>
+  <div class="caption col-md-10" style='padding:0'>
+    <p>
+    IS4 is the Laboratory of Intelligent Systems for Data Analysis, Modeling and Optimization (http://is4.tecnico.ulisboa.pt/), a research group from the Center of Intelligent Systems from IDMEC, Instituto Superior Técnico, Universidade de Lisboa (http://www.idmec.ist.utl.pt/structure_center_intelligent_systems_research.php?page=research). The research activities of the research group are coordinated by João M. Costa Sousa. This research area addresses the development of models and decision support systems based on intelligent methodologies. As data gets big and complex, there is a need for multidisciplinary approaches to transform data into knowledge. This transformation allows analysis, learning, knowledge extraction and modeling in very different domains, including engineering, biomedicine or environment. This research area involves the design of intelligent models and algorithms and the development of decision making models to form classifiers personalized diagnosis, patient treatment systems, and process modeling systems.. It brings together researchers from multi-disciplinary fields with the purpose of advancing knowledge through modeling and optimize data and systems.
+  </p>
+  </div>
+</div>
+
+
+<div class="row">
+  <h2><a href='https://lcp.mit.edu/' style='color : #333333;'> Laboratory for Computational Physiology </a></h2>
+  <div class="col-md-2">
+    <a href='https://lcp.mit.edu/'><img style='height:auto;width: 100%;' class="img-circle" src="/img/collaborators/lcp-logo.png"></a>
+  </div>
+  <div class="caption col-md-10" style='padding:0'>
+   <p>
+    The Laboratory for Computational Physiology (LCP), under the direction of Professor Roger Mark, conducts research aimed at improving health care through the generation of new knowledge, monitoring technology and clinical decision support by applying physiological signal processing, data science and machine learning technology to large collections of critical care data. The laboratory’s investigators include clinicians, computer and data scientists, electrical engineers, and biostatisticians. Current LCP research comprises two major projects, Critical Care Informatics and PhysioNet. 
+  </p>
+  </div>
+</div>
+
 <div class="row">
   <h2><a href='https://telehealth.ph/' style='color : #333333;'>National Telehealth Center, National Institutes of Health, University of the Philippines Manila</a></h2>
   <div class="col-md-2">
@@ -88,6 +136,6 @@ keywords = ["Collaborators"]
 		Taipei Medical University (TMU) is ranked as one of the World's Top 100 medical universities according to the QS World University Rankings. TMU is composed of seven colleges including College of Medical Science and Technology. The College of Medical Science and Technology, is a leading institution for students who have demonstrated the excellence in academics. The International Center for Health Information Technology (ICHIT), is a leading center who have demonstrated the excellence in cutting-edge research in the utilization of ICT in the healthcare. Our focus is 4P medicine (Prediction, Prevention, Participation and Personalization). We work closely with our teaching hospitals and practice translational medicine to our best knowledge. We formed a multidisciplinary team consist of experts from Biomedical informatics, Data mining, Natural Language Processing, Social Networking experts, Consultants from Neurology, Cardiology, Nephrology and Dermatology, Physicians, Nurses and medical technologists. We are mainly focusing on translational research in HIT (Health Information Technology). In this context we can offer you design as well as functional analysis of the software, evaluation of the mobile Apps, business and processes analytics, integration of heterogeneous e-Health and m-Health systems through a common open platform.
 	</p>
   </div>
-</div>
+</div> 
 
 <br>
