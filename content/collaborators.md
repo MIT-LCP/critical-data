@@ -43,6 +43,18 @@ keywords = ["Collaborators"]
 </div>
 
 <div class="row">
+  <h2><a href='https://www.kpu-m.ac.jp/doc/english/index.html' style='color : #333333;'> Department of Anesthesiology and Intensive Care Medicine, Kyoto Prefectural University of Medicine </a></h2>
+  <div class="col-md-2">
+    <a href='https://www.kpu-m.ac.jp/doc/english/index.htmlp'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/Logo-type1.jpg"></a>
+  </div>
+  <div class="caption col-md-10" style='padding:0'>
+    <p>
+    Kyoto Prefectural University of Medicine (KPUM) is one of the oldest medical schools in Japan. The first hospital was founded in 1872 solely by the donation of Kyoto citizens at that time and first three professors were hired from Germany. Ever since, it has always been loved by Kyotonians because of its kind and high-level medical performance. To bring top level medical care in Kyoto region, the university especially put emphasis on clinical education. Throughout many years, the university has adapted to the changes in society and care needs. At present, KPUM consists of a Medical School, Nursing School, Graduate School for Medical Science, and a Graduate School of Nursing for Health Care Sciences. The medical professionals have been trained to always have respect for human dignity and a high level of specialized knowledge and skills. They contributed to public welfare throughout Japan and abroad.  The Japanese Intensive care PAtient Database (JIPAD) project started in 2014 from here by the support of Japanese Society of Intensive Care Medicine and now increasing the number of participating hospitals in Japan. JIPAD collaborates with MIT Critical Care, National University of Singapore, and Australian and New Zealand Intensive Care Society.
+  </p>
+  </div>
+</div> 
+
+<div class="row">
   <h2><a href='http://www.med.uth.gr/en/' style='color : #333333;'> Department of Medicine, University of Thessaly, Greece </a></h2>
   <div class="col-md-2">
   	<a href='http://www.med.uth.gr/en/'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/university_thessaly.gif"></a>
