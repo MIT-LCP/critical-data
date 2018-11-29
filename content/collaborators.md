@@ -43,6 +43,18 @@ keywords = ["Collaborators"]
 </div>
 
 <div class="row">
+  <h2><a href='https://www.kpu-m.ac.jp/doc/english/index.html' style='color : #333333;'> Department of Anesthesiology and Intensive Care Medicine, Kyoto Prefectural University of Medicine </a></h2>
+  <div class="col-md-2">
+    <a href='https://www.kpu-m.ac.jp/doc/english/index.htmlp'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/Logo-type1.jpg"></a>
+  </div>
+  <div class="caption col-md-10" style='padding:0'>
+    <p>
+    Kyoto Prefectural University of Medicine (KPUM) is one of the oldest medical schools in Japan. The first hospital was founded in 1872 solely from the donation of Kyoto citizens at that time. To maintain top quality medical care in the Kyoto region, the university especially puts emphasis on clinical education. Throughout many years, the university has adapted to the changes in the care needs of the population. At present, KPUM consists of a Medical School, Nursing School, Graduate School for Medical Science, and a Graduate School of Nursing for Health Care Sciences. The students are trained to always have the highest respect for human dignity in addition to specialized knowledge and skills. The Japanese Intensive care PAtient Database (JIPAD) project started at KPUM in 2014 with the support of Japanese Society of Intensive Care Medicine (JSICM) and now includes participating hospitals throughout Japan. JSICM collaborates with the MIT Critical Data group, the National University of Singapore, and the Australian and New Zealand Intensive Care Society.
+  </p>
+  </div>
+</div> 
+
+<div class="row">
   <h2><a href='http://www.med.uth.gr/en/' style='color : #333333;'> Department of Medicine, University of Thessaly, Greece </a></h2>
   <div class="col-md-2">
   	<a href='http://www.med.uth.gr/en/'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/university_thessaly.gif"></a>
