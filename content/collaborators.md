@@ -45,7 +45,7 @@ keywords = ["Collaborators"]
 <div class="row">
   <h2><a href='https://www.kpu-m.ac.jp/doc/english/index.html' style='color : #333333;'> Department of Anesthesiology and Intensive Care Medicine, Kyoto Prefectural University of Medicine </a></h2>
   <div class="col-md-2">
-    <a href='https://www.kpu-m.ac.jp/doc/english/index.htmlp'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/Logo-type1.jpg"></a>
+    <a href='https://www.kpu-m.ac.jp/doc/english/index.html'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/Logo-type1.jpg"></a>
   </div>
   <div class="caption col-md-10" style='padding:0'>
     <p>
@@ -101,6 +101,17 @@ keywords = ["Collaborators"]
   </div>
 </div>
 
+<div class="row">
+  <h2><a href='http://www.uci23.org/index.php/es/' style='color : #333333;'> Intensive Care Unit of the University Hospital of Tarragona Joan XXIII </a></h2>
+  <div class="col-md-2">
+    <a href='http://www.uci23.org/index.php/es/'><img style='height:auto;width: 100%;' class="img-responsive" src="/img/collaborators/LogoICU23.JPG"></a>
+  </div>
+  <div class="caption col-md-10" style='padding:0'>
+    <p>
+    The Advanced Analysis of Critical Data (AACD) research group within the Intensive Care Unit of the Hospital Universitari de Tarragona Joan XXIII (ICU23) is a multidisciplinary team composed by intensivists and data scientists. This group is pioneer in using data stored in the clinical information system (CIS) for unit management and research. They implemented an innovative solution called ICU-DaMa (Intensive Care Unit Data Management) and nowadays are leading the paradigm shift towards clinical electronic data among the Hospitals subscribed at Institut Català de la Salud (ICS). AACD is collaborating with the Universitat Rovira i Virgili (URV) and Universitat de Barcelona (UB) to apply state of the art algorithms to ICU data. With the support of the Laboratory for Computational Physiology (LCP), AACD built a MIMIC like database called ICU23 using the data stored in their CIS, and both groups organized the Tarragona Datathon 2018.
+  </p>
+  </div>
+</div> 
 
 <div class="row">
   <h2><a href='https://lcp.mit.edu/' style='color : #333333;'> Laboratory for Computational Physiology </a></h2>

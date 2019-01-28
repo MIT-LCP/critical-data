@@ -316,7 +316,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
          </div>
       </div>
       <div class="col-md-4">
-         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/kimiko.jpg">
+         <img alt="" class="img-circle" src="/img/faculty_2018_hst_953/yueh_hsun.jpg">
          <div class="caption">
             <h4>Yueh-Hsun Chuang</h4>
             <p>
@@ -325,7 +325,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
                <a class="btn btn-light" href="" role="button" target="_blank" title="">
                <i class="fab fa-linkedin"></i></a>
             </p>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_kimiko">
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal_yueh_hsun">
             More info <i class="fa fa-info-circle" aria-hidden="true"></i>
             </button>
          </div>
@@ -573,7 +573,7 @@ Please, download our syllabus here <a href="https://docs.google.com/document/d/1
       </div>
    </div>
 </div>
-<div class="modal fade" id="modal_kimiko" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal fade" id="modal_yueh_hsun" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
    <div class="modal-dialog" role="document">
       <div class="modal-content">
          <div class="modal-header">
