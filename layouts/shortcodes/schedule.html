@@ -1,0 +1,8 @@
+
+<table class="table table-hover">
+<thead><tr ><th> Time </th><th> Activity </th><th> Topic </th><th> Location </th><tr></thead>
+{{ range .Site.Data.consortium.schedule }}
+<tr><td>{{ .Time }}</td><td>{{ .Activity }}</td><td>{{ .Topic }} </td><td>{{ .Location }}</td></tr>
+{{end}}
+
+</table>

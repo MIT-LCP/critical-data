@@ -1,0 +1,122 @@
+[
+ {
+   "Location": "E25-401",
+   "Time": "8:30",
+   "Activity": "Coffee Tea",
+   "Topic": ""
+ },
+ {
+   "Location": "",
+   "Time": "9:00",
+   "Activity": "Roger Mark",
+   "Topic": "Welcome Remarks: How We Got Here and Where Are We Going"
+ },
+ {
+   "Location": "",
+   "Time": "9:20",
+   "Activity": "Leo Celi",
+   "Topic": ""
+ },
+ {
+   "Location": "",
+   "Time": "9:40",
+   "Activity": "Thomas Heldt",
+   "Topic": "Integrative Neuromonitoring and Critical Care Informatics"
+ },
+ {
+   "Location": "",
+   "Time": "10:00",
+   "Activity": "Steve Horng",
+   "Topic": "BIDMC ED Data and CXRs"
+ },
+ {
+   "Location": "",
+   "Time": "10:20",
+   "Activity": "Coffee Break",
+   "Topic": ""
+ },
+ {
+   "Location": "",
+   "Time": "10:30",
+   "Activity": "Alistair Johnson",
+   "Topic": "MIMIC-IV"
+ },
+ {
+   "Location": "",
+   "Time": "10:50",
+   "Activity": "Omar Badawi",
+   "Topic": "eICU"
+ },
+ {
+   "Location": "",
+   "Time": "11:10",
+   "Activity": "Joe Frassica",
+   "Topic": "Data Sharing & Large Datasets"
+ },
+ {
+   "Location": "",
+   "Time": "11:20",
+   "Activity": "Minnan Xu",
+   "Topic": "Philips Research Acute Care Analytics"
+ },
+ {
+   "Location": "E25-119",
+   "Time": "12:00",
+   "Activity": "Lunch Break",
+   "Topic": "Parallel Session in E25-101: \nSteering Committee Meeting"
+ },
+ {
+   "Location": "E25-401",
+   "Time": "13:10",
+   "Activity": "Tom Pollard",
+   "Topic": "PhysioNet"
+ },
+ {
+   "Location": "",
+   "Time": "13:30",
+   "Activity": "Marianne Slight",
+   "Topic": "Datathons and Online Courses"
+ },
+ {
+   "Location": "",
+   "Time": "14:00",
+   "Activity": "Donny Cheung",
+   "Topic": "Google: Recent Work and Plans for Use of MIMIC"
+ },
+ {
+   "Location": "",
+   "Time": "14:30",
+   "Activity": "Coffee Break",
+   "Topic": ""
+ },
+ {
+   "Location": "",
+   "Time": "14:40",
+   "Activity": "Chaitanya Shivade",
+   "Topic": "IBM: Deep Neural Networks and The Struggles with Clinical Texts"
+ },
+ {
+   "Location": "",
+   "Time": "15:10",
+   "Activity": "Jonathan Rubin",
+   "Topic": "Automated Analysis of Chest XRays and Reports"
+ },
+ {
+   "Location": "",
+   "Time": "15:30",
+   "Activity": "Jesse Rafa",
+   "Topic": "The Global Open Source Severity for Illness Score (GOSSIS)"
+ },
+ {
+   "Location": "",
+   "Time": "15:50",
+   "Activity": "Student Presentations",
+   "Topic": "Research Projects from HST.953 and Datathons"
+ },
+ {
+   "Location": "3rd Floor IMES",
+   "Time": "17:30",
+   "Activity": "Networking Reception",
+   "Topic": "Light refreshments will be served"
+ }
+]
