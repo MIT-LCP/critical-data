@@ -1,8 +1,9 @@
 
 <table class="table table-hover">
-<thead><tr ><th> Time </th><th> Activity </th><th> Topic </th><th> Location </th><tr></thead>
+<thead><tr ><th width="10%"> Time </th><th width="20%"> Activity </th><th width="60%"> Topic </th><th width="10%"> Location </th><tr></thead>
 {{ range .Site.Data.consortium.schedule }}
-<tr><td>{{ .Time }}</td><td>{{ .Activity }}</td><td>{{ .Topic }} </td><td>{{ .Location }}</td></tr>
+<tr><td>{{ .Time }}</td><td>
+<a data-toggle="collapse" href="#collapse{{ .ID }}" role="button" aria-expanded="false" aria-controls="collapseExample">{{ .Activity }}</a></td><td>{{ .Topic }}<div class="collapse" id="collapse{{ .ID }}"><br><div class="card card-body">{{ .Bio }}</div></div></td><td>{{ .Location }}</td></tr>
 {{end}}
 
 </table>
