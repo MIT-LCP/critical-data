@@ -12,8 +12,8 @@
    "Location": "",
    "Time": "9:00",
    "Activity": "Roger Mark",
-   "Topic": "Welcome Remarks: How We Got Here and Where Are We Going",
-   "Bio": "Dr. Mark is Distinguished Professor of Health Sciences and Technology of Electrical Engineering and Computer Science at MIT. He trained in internal medicine at the Harvard Medical Unit at Boston City Hospital and then spent two years in the Medical Corps of the USAF studying the biological effects of laser radiation. He joined the faculty of the EE Department at MIT in 1969 and also the faculty of the Department of Medicine at Harvard Medical School. He has been active in teaching quantitative physiology to undergraduate and graduate engineering students at MIT, and Introduction to Clinical Medicine to HST MEMP students. Dr. Mark is a fellow of the IEEE, a fellow of the American College of Cardiology, and a founding fellow of the American Institute of Medical and Biological Engineering. He remains active in the practice of primary care internal medicine and geriatrics for about 20% of his time, and is Senior Physician at the Beth Israel Deaconess Medical Center."
+   "Topic": "Welcome Remarks: How We Got Here; Where Are We Going?",
+   "Bio": "Dr. Mark is Distinguished Professor of Health Sciences and Technology in IMES and EECS at MIT. He received his PhD in electrical engineering from MIT and his MD from Harvard Medical School. He trained in internal medicine at the Harvard Medical Unit at Boston City Hospital and then spent two years in the Medical Corps of the USAF studying the biological effects of laser radiation. He joined the faculty of the EE Department at MIT in 1969 and also the faculty of the Department of Medicine at Harvard Medical School. He has been active in teaching quantitative physiology to undergraduate and graduate engineering students at MIT, and Introduction to Clinical Medicine to HST PhD students. Dr. Mark’s research activities focus on physiological signal processing and database development, cardiovascular modeling, critical care decision support and predictive modeling. His group launched “PhysioNet” in 1999 to provide open access to major collections of well-characterized physiologic and clinical data and associated analytical software. His laboratory’s project, “Critical Care Informatics,” is focused on transforming massive archives of critical care clinical data into new knowledge that will improve the efficiency, accuracy, and timeliness of clinical decision making in intensive care. Dr. Mark’s own research has depended critically on access to physiologic and clinical data, and he is firmly committed to the importance of making such data freely available to the research community."
  },
  {
    "ID": 2,
@@ -29,7 +29,7 @@
    "Time": "9:40",
    "Activity": "Thomas Heldt",
    "Topic": "Epidemiology and Mangement of NICU Monitoring Alarms",
-   "Bio": "Dr. Thomas Heldt joined the MIT faculty in 2013 as Hermann L.F. von Helmholtz Career Development Professor in the Institute for Medical Engineering and Science and as Associate Professor of Electrical and Biomedical Engineering with the Department of Electrical Engineering and Computer Science. Additionally, Thomas is a Principal Investigator with MIT’s Research Laboratory of Electronics (RLE)."
+   "Bio": "Dr. Thomas Heldt is Hermann L.F. von Helmholtz Career Development Professor in the Institute for Medical Engineering and Science and Associate Professor of Electrical and Biomedical Engineering in the Department of Electrical Engineering and Computer Science. Additionally, Thomas is a Principal Investigator with MIT’s Research Laboratory of Electronics (RLE). He directs the Computational Physiology and Clinical Inference group in IMES. His research interests focus on signal processing, mathematical modeling, and model identification to support real-time clinical decision making, monitoring of disease progression, and titration of therapy, primarily in neurocritical and neonatal critical care. His research is conducted in close collaboration with colleagues at MIT and clinicians from Boston-area hospitals."
  },
  {
    "ID": 4,
@@ -77,7 +77,7 @@
    "Time": "11:20",
    "Activity": "Minnan Xu",
    "Topic": "Philips Research Acute Care Analytics",
-   "Bio": "Principle Scientist, Philips Research"
+   "Bio": "Principal Scientist, Philips Research"
  },
  {
    "ID": 10,
@@ -117,7 +117,7 @@
    "Time": "14:30",
    "Activity": "Chaitanya Shivade",
    "Topic": "IBM: Deep Neural Networks and The Struggles with Clinical Texts",
-   "Bio": "Dr. Shivade is a member of the Medical Imaging Solutions Group interested in applying machine learning techniques to solve problems in clinical data. He graduated with a PhD in Computer Science and Engineering from The Ohio State University. At IBM Research, his work has focused on language inference, question answering, and patient summarization."
+   "Bio": "Dr. Shivade is a member of the Medical Imaging Solutions Group interested in applying machine learning techniques to solve problems in clinical data. She graduated with a PhD in Computer Science and Engineering from The Ohio State University. At IBM Research, her work has focused on language inference, question answering, and patient summarization."
  },
  {
    "ID": 15,
