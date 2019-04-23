@@ -34,6 +34,8 @@ banner = "img/blog/data.jpg"
 {{< schedule >}}
 </div>
 <div class="col-sm-4">
+<img src="consortium_members.png" class="img-responsive">
+
 </div>
 </div>
 

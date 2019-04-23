@@ -29,7 +29,7 @@
    "Time": "9:40",
    "Activity": "Thomas Heldt",
    "Topic": "Epidemiology and Mangement of NICU Monitoring Alarms",
-   "Bio": "Dr. Thomas Heldt is Hermann L.F. von Helmholtz Career Development Professor in the Institute for Medical Engineering and Science and Associate Professor of Electrical and Biomedical Engineering in the Department of Electrical Engineering and Computer Science. Additionally, Thomas is a Principal Investigator with MIT’s Research Laboratory of Electronics (RLE). He directs the Computational Physiology and Clinical Inference group in IMES. His research interests focus on signal processing, mathematical modeling, and model identification to support real-time clinical decision making, monitoring of disease progression, and titration of therapy, primarily in neurocritical and neonatal critical care. His research is conducted in close collaboration with colleagues at MIT and clinicians from Boston-area hospitals."
+   "Bio": "Dr. Thomas Heldt is Hermann L.F. von Helmholtz Career Development Professor in the Institute for Medical Engineering and Science and Associate Professor of Electrical and Biomedical Engineering in the Department of Electrical Engineering and Computer Science. He directs the Computational Physiology and Clinical Inference group in IMES. His research interests focus on signal processing, mathematical modeling, and model identification to support real-time clinical decision making, monitoring of disease progression, and titration of therapy, primarily in neurocritical and neonatal critical care. His research is conducted in close collaboration with colleagues at MIT and clinicians from Boston-area hospitals."
  },
  {
    "ID": 4,
@@ -61,7 +61,7 @@
    "Time": "10:50",
    "Activity": "Omar Badawi",
    "Topic": "eICU",
-   "Bio": "Head of Health Data Science & AI at Philips"
+   "Bio": "Omar Badawi, PharmD, MPH, FCCM is the Head of Health Data Science and AI in the Philips Patient Care Analytics business and leads the research for developing and validating product-related predictive algorithms and decision support tools. He is also an Adjunct Assistant Professor with the University of Maryland School of Pharmacy and Research Affiliate at the Massachusetts Institute of Technology. He earned a Master in Public Health degree with a focus in Epidemiology and Biostatistics from The Johns Hopkins Bloomberg School of Public Health and is currently the Program Manager for the Philips eICU Research Institute which supports collaborative research between industry, academia and clinicians using de-identified clinical data representing over 6 million ICU patients. Dr. Badawi is also a Fellow of the American College of Critical Care Medicine."
  },
  {
    "ID": 8,
@@ -77,7 +77,7 @@
    "Time": "11:20",
    "Activity": "Minnan Xu",
    "Topic": "Philips Research Acute Care Analytics",
-   "Bio": "Principal Scientist, Philips Research"
+   "Bio": "Dr. Minnan Xu is a principal scientist and group leader at Philips Research North America.  She leads a team working on analytics and applying machine learning to address unmet needs in acute are settings.  She has research experience working with large clinical databases and developing predictive models for adult and pediatric critical care.  As an scientist in industry, she works closely with clinicians, academic researchers, and Philips business partners to bring data driven solutions to the bedside in order to help clinicians improve clinical outcomes."
  },
  {
    "ID": 10,
@@ -117,7 +117,7 @@
    "Time": "14:30",
    "Activity": "Chaitanya Shivade",
    "Topic": "IBM: Deep Neural Networks and The Struggles with Clinical Texts",
-   "Bio": "Dr. Shivade is a member of the Medical Imaging Solutions Group interested in applying machine learning techniques to solve problems in clinical data. She graduated with a PhD in Computer Science and Engineering from The Ohio State University. At IBM Research, her work has focused on language inference, question answering, and patient summarization."
+   "Bio": "Dr. Shivade is a member of the Medical Imaging Solutions Group interested in applying machine learning techniques to solve problems in clinical data. He graduated with a PhD in Computer Science and Engineering from The Ohio State University. At IBM Research, his work has focused on language inference, question answering, and patient summarization."
  },
  {
    "ID": 15,
@@ -131,7 +131,7 @@
    "ID": 16,
    "Location": "",
    "Time": "15:10",
-   "Activity": "Jonathan Rubin",
+   "Activity": "Cindy Wang & Prescott Klassen",
    "Topic": "Automated Analysis of Chest XRays and Reports",
    "Bio": "PhD in computer science from University of Auckland, New Zealand, focused on the use of artificial intelligence for strategy generation in computer games. Current research focuses on the development and application of machine/deep learning algorithms to physiologic waveform and biomedical imaging datasets. Has developed deep learning algorithms that are able to recognize abnormalities in recorded heart sounds, identify arrhythmias in ECG waveforms and perform automated classification of radiological findings within chest x-ray images."
  },
