@@ -89,6 +89,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.svg"
+    logo_small = "img/logo.svg"
     address = """<p><strong>Massachusetts Institute of Technology (MIT)</strong>
         <br>45 Carleton St
         <br>Building E25-505
