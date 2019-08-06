@@ -4,10 +4,6 @@ identifier = "textbook"
 description = "Textbook"
 keywords = ["textbook"]
 weight = 1
-
-[menu]
-  [menu.main]
-    parent = "Activities"
 +++
 
 # Secondary Analysis of Electronic Health Records
@@ -34,3 +30,5 @@ Authors (Listed Alphabetically):
 * Peter Charlton
 * Tom Joseph Pollard
 * Tristan Naumann
+
+<br><br>

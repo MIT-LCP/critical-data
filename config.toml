@@ -26,7 +26,8 @@ paginate = 10
     weight = 20
 
 [[menu.main]]
-   name = "Activities"
+   name = "Course"
+   url  = "/course/"
    weight = 30
 
 [[menu.main]]
@@ -45,9 +46,14 @@ paginate = 10
     weight = 60
 
 [[menu.main]]
+   name = "Book"
+   url  = "/textbook/"
+   weight = 70
+
+[[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 70
+    weight = 80
 
 [params]
     viewMorePostLink = "/blog/"

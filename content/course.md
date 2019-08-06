@@ -1,17 +1,8 @@
 +++
-title = "2019.HST.953: Collaborative Data Science in Medicine"
-date = "2019-08-06T12:00:00-04:00"
+title = "Course"
 description = "About Our Course 2019.HST.953: Collaborative Data Science in Medicine"
-identifier = "2019.HST.953"
-keywords = ["2019.HST.953"]
-tags = ["course"]
-banner = "img/blog/data.jpg"
-#weight = 2
-
-[menu]
-  [menu.main]
-    parent = "Activities"
-
+identifier = "course"
+keywords = ["2019.HST.953", "Course"]
 +++
 
 ## 2019.HST.953: Collaborative Data Science in Medicine
