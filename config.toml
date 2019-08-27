@@ -36,24 +36,19 @@ paginate = 10
     weight = 40
 
 [[menu.main]]
-    name = "Collaborators"
-    url  = "/collaborators/"
-    weight = 50
-
-[[menu.main]]
     name = "Consortium"
     url  = "/consortium/"
-    weight = 60
+    weight = 50
 
 [[menu.main]]
    name = "Book"
    url  = "/textbook/"
-   weight = 70
+   weight = 60
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 80
+    weight = 70
 
 [params]
     viewMorePostLink = "/blog/"
