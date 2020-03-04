@@ -45,6 +45,8 @@ banner = "img/blog/data.jpg"
   There is an entry on the <a href="https://forms.gle/3uvXELJaXYbpSWXq7" target="blank">RSVP form</a>, or email us directly.
   </td></tr>
 </table>
+<h3>Tentative Meeting Schedule</h3>
+{{< schedule2020 >}}
 
 </div>
 <div class="col-sm-4">
@@ -52,21 +54,11 @@ banner = "img/blog/data.jpg"
 <h4>Date: April 21-22, 2020</h4>
 <h4>Location: MIT, <a href="http://whereis.mit.edu/?go=e25" target="blank">TBD</a></h4>
 <div class="bg-light">Note: There is significant construction in the area which may delay your commute</div>
-</div>
-<div class="col-sm-8">
-</div>
-</div>
-
-
-<div class="row">
-<div class="col-sm-8">
-<h3>Tentative Meeting Schedule</h3>
-{{< schedule2020 >}}
+<br><br>
 </div>
 <div class="col-sm-4">
-<img src="consortium_members.png" class="img-responsive">
+<img src="consortium_members20.png" class="img-responsive">
 
-</div>
 </div>
 
 </div>
