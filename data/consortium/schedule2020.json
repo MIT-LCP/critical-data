@@ -1,0 +1,56 @@
+{
+  "10": {
+    "Date": "Tuesday, April 21",
+    "Time": null,
+    "Activity": null,
+    "Topic": null
+  },
+  "11": {
+    "Date": null,
+    "Time": "13:00-14:00",
+    "Activity": null,
+    "Topic": "Current Status of Consortium Resources"
+  },
+  "12": {
+    "Date": null,
+    "Time": "14:00-16:00",
+    "Activity": null,
+    "Topic": "Scientific Presentations"
+  },
+  "13": {
+    "Date": null,
+    "Time": "16:00-17:00",
+    "Activity": null,
+    "Topic": "Consortium Member Presentations"
+  },
+  "14": {
+    "Date": null,
+    "Time": "17:00-19:00",
+    "Activity": null,
+    "Topic": "Dinner"
+  },
+  "15": {
+    "Date": "Wednesday, April 22",
+    "Time": null,
+    "Activity": null,
+    "Topic": null
+  },
+  "16": {
+    "Date": null,
+    "Time": "08:00-09:00",
+    "Activity": null,
+    "Topic": "Future Developments of the Consortium"
+  },
+  "17": {
+    "Date": null,
+    "Time": "09:00-11:00",
+    "Activity": null,
+    "Topic": "Consortium Member Presentations"
+  },
+  "18": {
+    "Date": null,
+    "Time": "11:00-12:00",
+    "Activity": null,
+    "Topic": "Steering Committee Meeting"
+  }
+}

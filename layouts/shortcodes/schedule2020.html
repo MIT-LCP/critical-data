@@ -1,0 +1,12 @@
+
+<table class="table table-hover">
+<thead><tr ><th width="10%"> Time</th><th width="60%"> Activity </th><tr></thead>
+{{ range .Site.Data.consortium.schedule2020 }}
+{{ if .Date }}
+<tr><th></th><th> {{ .Date }} </th></tr>
+{{ else }}
+<tr><td nowrap>{{ .Time }}</td><td>{{ .Topic }}</td></tr>
+{{ end }}
+{{end}}
+
+</table>
