@@ -15,8 +15,17 @@ banner = "img/blog/data.jpg"
 <div class="col-sm-8">
 <h3>Join us for the 2020 Annual Meeting</h3>
 
+<div class="jumbotron" style="background-image:none; background-color:#a94442;">
+  <h1>Meeting Postponed</h1>
+  <p>Due to <a href="http://medical.mit.edu/COVID-19">MIT guidelines</a> in response to COVID-19, we are postponing the annual consortium meeting.
+The meeting with be rescheduled for the summer or fall. More information forthcoming.
 
+</p>
+  <p>Please cancel any flight/hotel arrangements that you may have made.  Most airlines are accommodating itinerary changes during this time, but if they are not, please let us know and we will try to assist.</p>
+<p><a class="btn btn-primary btn-lg" href="http://medical.mit.edu/COVID-19" role="button">Learn more</a></p>
+</div>
 
+<br><br>
 <p>The MIT-LCP Clinical Data Consortium is a unique organization engaging in advancing health data analytics research through interdisciplinary industry-academic collaboration. This association of scientist, clinician, and industry leaders are devoted to building and curating uniquely powerful open health datasets, accelerating the discovery of novel machine learning models and applications focused on quality improvements in health outcomes.</p>
 <p>The Laboratory for Computational Physiology is organizing our 2nd Annual Clinical Data Consortium Meeting, to be held April 21-22.  This two-day event will bring together all participating Consortium Members and LCP research partners and affiliates who are engaged in building health datasets and/or performing health data analysis. During this meeting, we will present recent consortium developments and discuss plans for the upcoming year.  </p>
 
@@ -51,7 +60,7 @@ banner = "img/blog/data.jpg"
 </div>
 <div class="col-sm-4">
 <h3>Details</h3>
-<h4>Date: April 21-22, 2020</h4>
+<h4>Date: TBD</h4>
 <h4>Location: MIT, <a href="http://whereis.mit.edu/?go=e25" target="blank">TBD</a></h4>
 <div class="bg-light">Note: There is significant construction in the area which may delay your commute</div>
 <br><br>
