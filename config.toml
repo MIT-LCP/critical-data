@@ -95,7 +95,7 @@ paginate = 10
     longitude = "-71.086407"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/:filename/"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -139,5 +139,7 @@ paginate = 10
     title = "The latest from MIT Critical Data"
     subtitle = ""
 
-	
-	
+[markup]
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true
