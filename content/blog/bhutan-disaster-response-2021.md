@@ -4,7 +4,9 @@ date = "2021-03-30T12:00:00-04:00"
 tags = ["seminar"]
 categories = ["blog"]
 banner = "img/bhutan/bhutan.jpg"
-
+aliases = [
+"bhutan"
+]
 keywords = ["Bhutan", "seminar"]
 description = "Bhutan"
 +++
@@ -45,11 +47,3 @@ This event is hosted by MIT Critical Data, the Bhutan Institute of Happiness, th
 |  | &nbsp; |
 | <img src="/img/bhutan/s/lawrenceoh.jpg" width="160" alt="AeHIN" style="margin:10px"/> | **Lawrence Loh**<br> Dr. Lawrence Loh is Medical Officer of Health for Peel Public Health, which is the second largest public health department in the province of Ontario serving the communities of Brampton, Mississauga and Caledon in the Greater Toronto Area. Prior to his current role, he held positions at all three levels of government in Canada in two different provinces, serving as medical specialist in Vaccine Safety at the Public Health Agency of Canada, Medical Health Officer for Fraser Health Authority greater Vancouver, British Columbia, and Senior Medical Consultant to the Chief Medical Officer of Health of Ontario. He completed medical training at the University of Western Ontario and Public Health and Preventive Medicine residency at the University of Toronto, during which he concurrently completely Family Medicine training at St. Michael’s Hospital in downtown Toronto and an MPH at the Johns Hopkins Bloomberg School of Public Health. He holds board certifications in family medicine in Canada and in public health and preventive medicine in Canada and the United States. He lives in Toronto with his wife Jaime and his daughters Jessica and Lia.
  |
-
-
-###
-
-###
-
-
-### :
