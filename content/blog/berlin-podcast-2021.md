@@ -18,7 +18,7 @@ description = "Berlin"
 <figure>
   <audio
     controls
-    src="audio/berlin_podcast.mp3">
+    src="../audio/berlin_podcast.mp3">
       Your browser does not support the
       <code>audio</code> element.
   </audio>
