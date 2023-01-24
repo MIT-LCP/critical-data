@@ -1,0 +1,3 @@
+[submodule "content/datathon-2023/mit-health-datathon-2023.github.io"]
+	path = content/datathon-2023/mit-health-datathon-2023.github.io
+	url = https://github.com/MIT-Health-Datathon-2023/mit-health-datathon-2023.github.io.git
