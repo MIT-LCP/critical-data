@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="685" height="168" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="687" height="170" id="canvas_background" fill="none"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <text fill="#333333" stroke="#333333" stroke-width="2" x="335" y="79" id="svg_5" font-size="105" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold">Critical</text>
+  <text fill="#333333" stroke="#333333" stroke-width="2" x="335" y="165" id="svg_6" font-size="105" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold">Data</text>
+  <g stroke-width="35" stroke="#A31F34" id="svg_1">
+   <path stroke="#333333" d="m17.5,0l0,166m57,-166l0,113m57,-113l0,166m57,-166l0,33m58,20l0,113" id="svg_2"/>
+   <path d="m188.5,53l0,113" stroke="#a31f34" id="svg_3"/>
+   <path stroke="#333333" d="m229,16.5l92,0" stroke-width="33" id="svg_4"/>
+  </g>
+ </g>
+</svg>
