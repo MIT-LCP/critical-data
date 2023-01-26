@@ -46,9 +46,14 @@ paginate = 10
    weight = 60
 
 [[menu.main]]
+    name = "Datathon '23"
+    url  = "/datathon2023/"
+    weight = 70
+
+[[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 70
+    weight = 80
 
 [params]
     viewMorePostLink = "/blog/"
